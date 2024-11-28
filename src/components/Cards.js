@@ -1,9 +1,8 @@
 import React, { useEffect, useState } from 'react';
 
 const Cards = ({ cards, language }) => {
-  console.log(cards);
 
-  const [activeWord, setActiveWord] = useState(cards[0]);
+  const [activeWord, setActiveWord] = useState(cards[Math.floor(Math.random() * cards.length)]);
   const [isFlipped, setIsFLipped] = useState(false);
 
   const selectNextWord = () => {
@@ -20,6 +19,7 @@ const Cards = ({ cards, language }) => {
 
   return (
     <div id="container">
+      {/*<div id="example">{activeWord.example}</div>*/}
       <div id="card-wrapper">
         <div id="card" onClick={handleFlip} className={isFlipped ? 'flipped' : ''}>
           <div id="font-card">{language === 'english' ? activeWord.english : activeWord.hungarian}</div>
