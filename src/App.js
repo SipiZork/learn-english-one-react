@@ -1,25 +1,37 @@
 import logo from './logo.svg';
 import './App.css';
+import Cards from './components/Cards';
+import React, { useState, useEffect } from 'react';
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+
+  const [words, setWords] = useState([]);
+
+  useEffect(() => {
+    const fetchData = async () => {
+      try {
+        const response = await fetch('./english_hungarian_words.json');
+
+        const data = await response.json();
+        setWords(data);
+      } catch (error) {
+        console.error('Hiba történt az adatok lekérésekor:', error);
+      }
+    };
+
+    fetchData();
+  }, []); // Ne felejtse el a függőségi tömböt
+  if (words.length === 0) {
+    return <div>Töltés...</div>;
+  } else {
+    return (
+      <div className="App">
+
+        <div id="loading"></div>
+        <Cards cards={words} />
+      </div>
+    );
+  };
 }
 
 export default App;

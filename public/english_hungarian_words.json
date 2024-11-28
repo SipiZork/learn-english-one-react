@@ -1,0 +1,4910 @@
+[
+    {
+        "english":"house",
+        "hungarian":"ház",
+        "pronunciation":"\/haʊs\/",
+        "example":"The house is very big."
+    },
+    {
+        "english":"family",
+        "hungarian":"család",
+        "pronunciation":"\/ˈfæmɪli\/",
+        "example":"He loves spending time with his family."
+    },
+    {
+        "english":"car",
+        "hungarian":"autó",
+        "pronunciation":"\/kɑːr\/",
+        "example":"She drives a red car."
+    },
+    {
+        "english":"food",
+        "hungarian":"étel",
+        "pronunciation":"\/fuːd\/",
+        "example":"I like Italian food."
+    },
+    {
+        "english":"work",
+        "hungarian":"munka",
+        "pronunciation":"\/wɜːrk\/",
+        "example":"He goes to work every day."
+    },
+    {
+        "english":"school",
+        "hungarian":"iskola",
+        "pronunciation":"\/skuːl\/",
+        "example":"The children are at school."
+    },
+    {
+        "english":"friend",
+        "hungarian":"barát",
+        "pronunciation":"\/frend\/",
+        "example":"My friend is coming over for dinner."
+    },
+    {
+        "english":"city",
+        "hungarian":"város",
+        "pronunciation":"\/ˈsɪti\/",
+        "example":"Budapest is a beautiful city."
+    },
+    {
+        "english":"money",
+        "hungarian":"pénz",
+        "pronunciation":"\/ˈmʌni\/",
+        "example":"He saved a lot of money."
+    },
+    {
+        "english":"phone",
+        "hungarian":"telefon",
+        "pronunciation":"\/foʊn\/",
+        "example":"He called me on the phone."
+    },
+    {
+        "english":"street",
+        "hungarian":"utca",
+        "pronunciation":"\/striːt\/",
+        "example":"Our street is quiet."
+    },
+    {
+        "english":"garden",
+        "hungarian":"kert",
+        "pronunciation":"\/ˈɡɑːrdən\/",
+        "example":"The garden is full of flowers."
+    },
+    {
+        "english":"chair",
+        "hungarian":"szék",
+        "pronunciation":"\/tʃer\/",
+        "example":"This chair is comfortable."
+    },
+    {
+        "english":"door",
+        "hungarian":"ajtó",
+        "pronunciation":"\/dɔːr\/",
+        "example":"She opened the door."
+    },
+    {
+        "english":"wall",
+        "hungarian":"fal",
+        "pronunciation":"\/wɔːl\/",
+        "example":"There is a picture on the wall."
+    },
+    {
+        "english":"floor",
+        "hungarian":"padló",
+        "pronunciation":"\/flɔːr\/",
+        "example":"The floor is clean."
+    },
+    {
+        "english":"roof",
+        "hungarian":"tető",
+        "pronunciation":"\/ruːf\/",
+        "example":"The roof needs repair."
+    },
+    {
+        "english":"room",
+        "hungarian":"szoba",
+        "pronunciation":"\/ruːm\/",
+        "example":"This room is small."
+    },
+    {
+        "english":"bed",
+        "hungarian":"ágy",
+        "pronunciation":"\/bɛd\/",
+        "example":"The bed is soft."
+    },
+    {
+        "english":"light",
+        "hungarian":"lámpa",
+        "pronunciation":"\/laɪt\/",
+        "example":"Turn on the light."
+    },
+    {
+        "english":"kitchen",
+        "hungarian":"konyha",
+        "pronunciation":"\/ˈkɪtʃɪn\/",
+        "example":"The kitchen is modern."
+    },
+    {
+        "english":"bathroom",
+        "hungarian":"fürdőszoba",
+        "pronunciation":"\/ˈbæθruːm\/",
+        "example":"The bathroom is upstairs."
+    },
+    {
+        "english":"fork",
+        "hungarian":"villa",
+        "pronunciation":"\/fɔːrk\/",
+        "example":"He used a fork."
+    },
+    {
+        "english":"spoon",
+        "hungarian":"kanál",
+        "pronunciation":"\/spuːn\/",
+        "example":"The spoon is dirty."
+    },
+    {
+        "english":"knife",
+        "hungarian":"kés",
+        "pronunciation":"\/naɪf\/",
+        "example":"The knife is sharp."
+    },
+    {
+        "english":"meat",
+        "hungarian":"hús",
+        "pronunciation":"\/miːt\/",
+        "example":"She bought meat for dinner."
+    },
+    {
+        "english":"beef",
+        "hungarian":"marhahús",
+        "pronunciation":"\/biːf\/",
+        "example":"We need beef for the recipe."
+    },
+    {
+        "english":"pork",
+        "hungarian":"sertés",
+        "pronunciation":"\/pɔːrk\/",
+        "example":"He prefers pork."
+    },
+    {
+        "english":"salad",
+        "hungarian":"saláta",
+        "pronunciation":"\/ˈsæləd\/",
+        "example":"I love fresh salad."
+    },
+    {
+        "english":"rice",
+        "hungarian":"rizs",
+        "pronunciation":"\/raɪs\/",
+        "example":"We need rice."
+    },
+    {
+        "english":"egg",
+        "hungarian":"tojás",
+        "pronunciation":"\/ɛɡ\/",
+        "example":"I had an egg for breakfast."
+    },
+    {
+        "english":"lake",
+        "hungarian":"tó",
+        "pronunciation":"\/leɪk\/",
+        "example":"The lake is calm."
+    },
+    {
+        "english":"sea",
+        "hungarian":"tenger",
+        "pronunciation":"\/siː\/",
+        "example":"We swim in the sea."
+    },
+    {
+        "english":"ocean",
+        "hungarian":"óceán",
+        "pronunciation":"\/ˈoʊʃən\/",
+        "example":"The ocean is vast."
+    },
+    {
+        "english":"hill",
+        "hungarian":"domb",
+        "pronunciation":"\/hɪl\/",
+        "example":"The hill is steep."
+    },
+    {
+        "english":"valley",
+        "hungarian":"völgy",
+        "pronunciation":"\/ˈvæli\/",
+        "example":"The valley is green."
+    },
+    {
+        "english":"bush",
+        "hungarian":"bokor",
+        "pronunciation":"\/bʊʃ\/",
+        "example":"The bush is trimmed."
+    },
+    {
+        "english":"duck",
+        "hungarian":"kacsa",
+        "pronunciation":"\/dʌk\/",
+        "example":"The duck is swimming."
+    },
+    {
+        "english":"farm",
+        "hungarian":"farm",
+        "pronunciation":"\/fɑːrm\/",
+        "example":"They live on a farm."
+    },
+    {
+        "english":"tractor",
+        "hungarian":"traktor",
+        "pronunciation":"\/ˈtræktər\/",
+        "example":"The tractor is big."
+    },
+    {
+        "english":"field",
+        "hungarian":"mező",
+        "pronunciation":"\/fiːld\/",
+        "example":"The field is plowed."
+    },
+    {
+        "english":"rain",
+        "hungarian":"eső",
+        "pronunciation":"\/reɪn\/",
+        "example":"The rain is heavy."
+    },
+    {
+        "english":"snow",
+        "hungarian":"hó",
+        "pronunciation":"\/snoʊ\/",
+        "example":"It will snow tomorrow."
+    },
+    {
+        "english":"wind",
+        "hungarian":"szél",
+        "pronunciation":"\/wɪnd\/",
+        "example":"The wind is strong."
+    },
+    {
+        "english":"storm",
+        "hungarian":"vihar",
+        "pronunciation":"\/stɔːrm\/",
+        "example":"The storm caused damage."
+    },
+    {
+        "english":"universe",
+        "hungarian":"univerzum",
+        "pronunciation":"\/ˈjuːnɪvɜːrs\/",
+        "example":"The universe is vast."
+    },
+    {
+        "english":"animal",
+        "hungarian":"állat",
+        "pronunciation":"\/ˈænɪməl\/",
+        "example":"The animal is friendly."
+    },
+    {
+        "english":"insect",
+        "hungarian":"rovar",
+        "pronunciation":"\/ˈɪnsɛkt\/",
+        "example":"The insect is small."
+    },
+    {
+        "english":"elephant",
+        "hungarian":"elefánt",
+        "pronunciation":"\/ˈɛlɪfənt\/",
+        "example":"The elephant is huge."
+    },
+    {
+        "english":"lion",
+        "hungarian":"oroszlán",
+        "pronunciation":"\/ˈlaɪən\/",
+        "example":"The lion is the king of the jungle."
+    },
+    {
+        "english":"tiger",
+        "hungarian":"tigris",
+        "pronunciation":"\/ˈtaɪɡər\/",
+        "example":"The tiger is a fast runner."
+    },
+    {
+        "english":"bear",
+        "hungarian":"medve",
+        "pronunciation":"\/bɛr\/",
+        "example":"The bear is hibernating."
+    },
+    {
+        "english":"wolf",
+        "hungarian":"farkas",
+        "pronunciation":"\/wʊlf\/",
+        "example":"The wolf howls at night."
+    },
+    {
+        "english":"fox",
+        "hungarian":"róka",
+        "pronunciation":"\/fɑːks\/",
+        "example":"The fox is clever."
+    },
+    {
+        "english":"monkey",
+        "hungarian":"majom",
+        "pronunciation":"\/ˈmʌŋki\/",
+        "example":"The monkey likes bananas."
+    },
+    {
+        "english":"rat",
+        "hungarian":"patkány",
+        "pronunciation":"\/ræt\/",
+        "example":"The rat is hiding."
+    },
+    {
+        "english":"rabbit",
+        "hungarian":"nyúl",
+        "pronunciation":"\/ˈræbɪt\/",
+        "example":"The rabbit hops quickly."
+    },
+    {
+        "english":"frog",
+        "hungarian":"béka",
+        "pronunciation":"\/frɔːɡ\/",
+        "example":"The frog is green."
+    },
+    {
+        "english":"snake",
+        "hungarian":"kígyó",
+        "pronunciation":"\/sneɪk\/",
+        "example":"The snake is long."
+    },
+    {
+        "english":"spider",
+        "hungarian":"pók",
+        "pronunciation":"\/ˈspaɪdər\/",
+        "example":"There is a spider in the corner."
+    },
+    {
+        "english":"bee",
+        "hungarian":"méh",
+        "pronunciation":"\/biː\/",
+        "example":"The bee is buzzing."
+    },
+    {
+        "english":"ant",
+        "hungarian":"hangya",
+        "pronunciation":"\/ænt\/",
+        "example":"The ant is hardworking."
+    },
+    {
+        "english":"butterfly",
+        "hungarian":"pillangó",
+        "pronunciation":"\/ˈbʌtərflaɪ\/",
+        "example":"The butterfly is beautiful."
+    },
+    {
+        "english":"branch",
+        "hungarian":"ág",
+        "pronunciation":"\/bræntʃ\/",
+        "example":"The branch broke."
+    },
+    {
+        "english":"root",
+        "hungarian":"gyökér",
+        "pronunciation":"\/ruːt\/",
+        "example":"The root is deep."
+    },
+    {
+        "english":"bark",
+        "hungarian":"kéreg",
+        "pronunciation":"\/bɑːrk\/",
+        "example":"The bark is rough."
+    },
+    {
+        "english":"seed",
+        "hungarian":"mag",
+        "pronunciation":"\/siːd\/",
+        "example":"The seed is planted."
+    },
+    {
+        "english":"fruit",
+        "hungarian":"gyümölcs",
+        "pronunciation":"\/fruːt\/",
+        "example":"The fruit is ripe."
+    },
+    {
+        "english":"pear",
+        "hungarian":"körte",
+        "pronunciation":"\/peər\/",
+        "example":"She ate a pear."
+    },
+    {
+        "english":"peach",
+        "hungarian":"barack",
+        "pronunciation":"\/piːtʃ\/",
+        "example":"The peach is fuzzy."
+    },
+    {
+        "english":"plum",
+        "hungarian":"szilva",
+        "pronunciation":"\/plʌm\/",
+        "example":"The plum is purple."
+    },
+    {
+        "english":"cherry",
+        "hungarian":"cseresznye",
+        "pronunciation":"\/ˈtʃɛri\/",
+        "example":"He likes cherries."
+    },
+    {
+        "english":"berry",
+        "hungarian":"bogyó",
+        "pronunciation":"\/ˈbɛri\/",
+        "example":"Berries are good in smoothies."
+    },
+    {
+        "english":"melon",
+        "hungarian":"dinnye",
+        "pronunciation":"\/ˈmɛlən\/",
+        "example":"I cut a melon."
+    },
+    {
+        "english":"watermelon",
+        "hungarian":"görögdinnye",
+        "pronunciation":"\/ˈwɔːtərˌmɛlən\/",
+        "example":"The watermelon is refreshing."
+    },
+    {
+        "english":"pineapple",
+        "hungarian":"ananász",
+        "pronunciation":"\/ˈpaɪnˌæpl\/",
+        "example":"Pineapples are sweet."
+    },
+    {
+        "english":"cucumber",
+        "hungarian":"uborka",
+        "pronunciation":"\/ˈkjuːkʌmbər\/",
+        "example":"Cucumbers are crunchy."
+    },
+    {
+        "english":"tomato",
+        "hungarian":"paradicsom",
+        "pronunciation":"\/təˈmeɪtoʊ\/",
+        "example":"Tomatoes are red."
+    },
+    {
+        "english":"carrot",
+        "hungarian":"répa",
+        "pronunciation":"\/ˈkærət\/",
+        "example":"Carrots are orange."
+    },
+    {
+        "english":"spice",
+        "hungarian":"fűszer",
+        "pronunciation":"\/spaɪs\/",
+        "example":"Spices are aromatic."
+    },
+    {
+        "english":"herb",
+        "hungarian":"gyógynövény",
+        "pronunciation":"\/hɜːrb\/",
+        "example":"Herbs add freshness."
+    },
+    {
+        "english":"oil",
+        "hungarian":"olaj",
+        "pronunciation":"\/ɔɪl\/",
+        "example":"Olive oil is healthy."
+    },
+    {
+        "english":"yogurt",
+        "hungarian":"joghurt",
+        "pronunciation":"\/ˈjoʊɡərt\/",
+        "example":"Yogurt is good for digestion."
+    },
+    {
+        "english":"cake",
+        "hungarian":"torta",
+        "pronunciation":"\/keɪk\/",
+        "example":"The cake is delicious."
+    },
+    {
+        "english":"cookie",
+        "hungarian":"süti",
+        "pronunciation":"\/ˈkʊki\/",
+        "example":"She baked cookies."
+    },
+    {
+        "english":"pie",
+        "hungarian":"pite",
+        "pronunciation":"\/paɪ\/",
+        "example":"The pie is filled with fruit."
+    },
+    {
+        "english":"chocolate",
+        "hungarian":"csokoládé",
+        "pronunciation":"\/ˈtʃɑːklət\/",
+        "example":"I love chocolate."
+    },
+    {
+        "english":"candy",
+        "hungarian":"cukorka",
+        "pronunciation":"\/ˈkændi\/",
+        "example":"Candy is sweet."
+    },
+    {
+        "english":"jam",
+        "hungarian":"dzsem",
+        "pronunciation":"\/ʤæm\/",
+        "example":"Jam is made from fruit."
+    },
+    {
+        "english":"honey",
+        "hungarian":"méz",
+        "pronunciation":"\/hʌni\/",
+        "example":"Honey is natural."
+    },
+    {
+        "english":"water",
+        "hungarian":"víz",
+        "pronunciation":"\/ˈwɔːtər\/",
+        "example":"Water is essential."
+    },
+    {
+        "english":"soda",
+        "hungarian":"üdítő",
+        "pronunciation":"\/ˈsoʊdə\/",
+        "example":"Soda is fizzy."
+    },
+    {
+        "english":"wine",
+        "hungarian":"bor",
+        "pronunciation":"\/waɪn\/",
+        "example":"They served wine at dinner."
+    },
+    {
+        "english":"beer",
+        "hungarian":"sör",
+        "pronunciation":"\/bɪr\/",
+        "example":"Beer is made from barley."
+    },
+    {
+        "english":"cocktail",
+        "hungarian":"koktél",
+        "pronunciation":"\/ˈkɑːkteɪl\/",
+        "example":"Cocktails are colorful."
+    },
+    {
+        "english":"glass",
+        "hungarian":"pohár",
+        "pronunciation":"\/ɡlæs\/",
+        "example":"The glass is empty."
+    },
+    {
+        "english":"bottle",
+        "hungarian":"üveg",
+        "pronunciation":"\/ˈbɑːtl\/",
+        "example":"She bought a bottle of water."
+    },
+    {
+        "english":"bicycle",
+        "hungarian":"bicikli",
+        "pronunciation":"\/ˈbaɪsɪkəl\/",
+        "example":"She rides her bicycle to work."
+    },
+    {
+        "english":"bus",
+        "hungarian":"busz",
+        "pronunciation":"\/bʌs\/",
+        "example":"The bus is crowded."
+    },
+    {
+        "english":"train",
+        "hungarian":"vonat",
+        "pronunciation":"\/treɪn\/",
+        "example":"The train is arriving at the station."
+    },
+    {
+        "english":"plane",
+        "hungarian":"repülő",
+        "pronunciation":"\/pleɪn\/",
+        "example":"We are flying on a plane tomorrow."
+    },
+    {
+        "english":"ship",
+        "hungarian":"hajó",
+        "pronunciation":"\/ʃɪp\/",
+        "example":"The ship is sailing."
+    },
+    {
+        "english":"boat",
+        "hungarian":"csónak",
+        "pronunciation":"\/boʊt\/",
+        "example":"They rented a boat."
+    },
+    {
+        "english":"caravan",
+        "hungarian":"lakókocsi",
+        "pronunciation":"\/ˈkærəvæn\/",
+        "example":"The caravan is parked at the site."
+    },
+    {
+        "english":"truck",
+        "hungarian":"teherautó",
+        "pronunciation":"\/trʌk\/",
+        "example":"The truck is carrying goods."
+    },
+    {
+        "english":"scooter",
+        "hungarian":"roller",
+        "pronunciation":"\/ˈskuːtər\/",
+        "example":"He bought a new scooter."
+    },
+    {
+        "english":"motorcycle",
+        "hungarian":"motorkerékpár",
+        "pronunciation":"\/ˈmoʊtərˌsaɪkəl\/",
+        "example":"The motorcycle is fast."
+    },
+    {
+        "english":"highway",
+        "hungarian":"autópálya",
+        "pronunciation":"\/ˈhaɪweɪ\/",
+        "example":"The highway is busy."
+    },
+    {
+        "english":"path",
+        "hungarian":"ösvény",
+        "pronunciation":"\/pæθ\/",
+        "example":"Follow the path to the river."
+    },
+    {
+        "english":"tunnel",
+        "hungarian":"alagút",
+        "pronunciation":"\/ˈtʌnəl\/",
+        "example":"The tunnel goes under the mountain."
+    },
+    {
+        "english":"traffic",
+        "hungarian":"forgalom",
+        "pronunciation":"\/ˈtræfɪk\/",
+        "example":"Traffic is heavy in the city."
+    },
+    {
+        "english":"sign",
+        "hungarian":"jel",
+        "pronunciation":"\/saɪn\/",
+        "example":"The sign shows the way."
+    },
+    {
+        "english":"crosswalk",
+        "hungarian":"zebra",
+        "pronunciation":"\/ˈkrɔːswɔːk\/",
+        "example":"Use the crosswalk to cross the street."
+    },
+    {
+        "english":"intersection",
+        "hungarian":"kereszteződés",
+        "pronunciation":"\/ˌɪntərˈsɛkʃən\/",
+        "example":"The intersection is dangerous."
+    },
+    {
+        "english":"driver",
+        "hungarian":"sofőr",
+        "pronunciation":"\/ˈdraɪvər\/",
+        "example":"The driver is experienced."
+    },
+    {
+        "english":"passenger",
+        "hungarian":"utas",
+        "pronunciation":"\/ˈpæsɪnʤər\/",
+        "example":"The passenger is tired."
+    },
+    {
+        "english":"station",
+        "hungarian":"állomás",
+        "pronunciation":"\/ˈsteɪʃən\/",
+        "example":"We are at the train station."
+    },
+    {
+        "english":"airport",
+        "hungarian":"repülőtér",
+        "pronunciation":"\/ˈeəpɔːrt\/",
+        "example":"The airport is far from here."
+    },
+    {
+        "english":"harbor",
+        "hungarian":"kikötő",
+        "pronunciation":"\/ˈhɑːrbər\/",
+        "example":"The harbor is full of boats."
+    },
+    {
+        "english":"port",
+        "hungarian":"kikötőhely",
+        "pronunciation":"\/pɔːrt\/",
+        "example":"The ship is at the port."
+    },
+    {
+        "english":"parking",
+        "hungarian":"parkoló",
+        "pronunciation":"\/ˈpɑːrkɪŋ\/",
+        "example":"The parking lot is full."
+    },
+    {
+        "english":"garage",
+        "hungarian":"garázs",
+        "pronunciation":"\/ɡəˈrɑːʒ\/",
+        "example":"The garage is used for storage."
+    },
+    {
+        "english":"fuel",
+        "hungarian":"üzemanyag",
+        "pronunciation":"\/fjuːl\/",
+        "example":"The fuel tank is empty."
+    },
+    {
+        "english":"gasoline",
+        "hungarian":"benzin",
+        "pronunciation":"\/ˈɡæsəˌliːn\/",
+        "example":"Gasoline is expensive."
+    },
+    {
+        "english":"diesel",
+        "hungarian":"dízel",
+        "pronunciation":"\/ˈdiːzəl\/",
+        "example":"Diesel is cheaper than gasoline."
+    },
+    {
+        "english":"electricity",
+        "hungarian":"elektromosság",
+        "pronunciation":"\/ɪˌlɛkˈtrɪsɪti\/",
+        "example":"Electricity powers the car."
+    },
+    {
+        "english":"engine",
+        "hungarian":"motor",
+        "pronunciation":"\/ˈɛnʤɪn\/",
+        "example":"The engine is making a noise."
+    },
+    {
+        "english":"gear",
+        "hungarian":"sebességváltó",
+        "pronunciation":"\/ɡɪr\/",
+        "example":"The car has five gears."
+    },
+    {
+        "english":"brake",
+        "hungarian":"fék",
+        "pronunciation":"\/breɪk\/",
+        "example":"The brake is not working."
+    },
+    {
+        "english":"wheel",
+        "hungarian":"kerék",
+        "pronunciation":"\/wiːl\/",
+        "example":"The wheel is punctured."
+    },
+    {
+        "english":"tire",
+        "hungarian":"gumiabroncs",
+        "pronunciation":"\/ˈtaɪər\/",
+        "example":"The tire is flat."
+    },
+    {
+        "english":"seatbelt",
+        "hungarian":"biztonsági öv",
+        "pronunciation":"\/ˈsiːtbɛlt\/",
+        "example":"Wear your seatbelt."
+    },
+    {
+        "english":"mirror",
+        "hungarian":"tükör",
+        "pronunciation":"\/ˈmɪrər\/",
+        "example":"The mirror is broken."
+    },
+    {
+        "english":"wiper",
+        "hungarian":"ablaktörlő",
+        "pronunciation":"\/ˈwaɪpər\/",
+        "example":"Turn on the wiper."
+    },
+    {
+        "english":"headlight",
+        "hungarian":"fényszóró",
+        "pronunciation":"\/ˈhɛdlaɪt\/",
+        "example":"The headlight is bright."
+    },
+    {
+        "english":"taillight",
+        "hungarian":"hátsó lámpa",
+        "pronunciation":"\/ˈteɪlaɪt\/",
+        "example":"The taillight is not working."
+    },
+    {
+        "english":"turn",
+        "hungarian":"fordul",
+        "pronunciation":"\/tɜrn\/",
+        "example":"Turn left here."
+    },
+    {
+        "english":"left",
+        "hungarian":"bal",
+        "pronunciation":"\/lɛft\/",
+        "example":"Turn right at the next corner."
+    },
+    {
+        "english":"right",
+        "hungarian":"jobb",
+        "pronunciation":"\/raɪt\/",
+        "example":"Go straight ahead."
+    },
+    {
+        "english":"straight",
+        "hungarian":"egyenesen",
+        "pronunciation":"\/streɪt\/",
+        "example":"Stop at the red light."
+    },
+    {
+        "english":"stop",
+        "hungarian":"megáll",
+        "pronunciation":"\/stɑp\/",
+        "example":"You can go now."
+    },
+    {
+        "english":"go",
+        "hungarian":"indul",
+        "pronunciation":"\/ɡoʊ\/",
+        "example":"Accelerate when the light turns green."
+    },
+    {
+        "english":"accelerate",
+        "hungarian":"gyorsít",
+        "pronunciation":"\/ækˈsɛləˌreɪt\/",
+        "example":"Slow down at the curve."
+    },
+    {
+        "english":"slow",
+        "hungarian":"lassít",
+        "pronunciation":"\/sloʊ\/",
+        "example":"The speed limit is 50."
+    },
+    {
+        "english":"speed",
+        "hungarian":"sebesség",
+        "pronunciation":"\/spiːd\/",
+        "example":"He got a fine for speeding."
+    },
+    {
+        "english":"limit",
+        "hungarian":"határ",
+        "pronunciation":"\/ˈlɪmɪt\/",
+        "example":"She bought a ticket for the bus."
+    },
+    {
+        "english":"fine",
+        "hungarian":"bírság",
+        "pronunciation":"\/faɪn\/",
+        "example":"He has a driving license."
+    },
+    {
+        "english":"ticket",
+        "hungarian":"jegy",
+        "pronunciation":"\/ˈtɪkɪt\/",
+        "example":"You need a permit to park here."
+    },
+    {
+        "english":"license",
+        "hungarian":"engedély",
+        "pronunciation":"\/ˈlaɪsəns\/",
+        "example":"The car is registered."
+    },
+    {
+        "english":"permit",
+        "hungarian":"engedélyezés",
+        "pronunciation":"\/ˈpɜːrmɪt\/",
+        "example":"The license plate is missing."
+    },
+    {
+        "english":"register",
+        "hungarian":"regisztrál",
+        "pronunciation":"\/ˈrɛʤɪstər\/",
+        "example":"He needs car insurance."
+    },
+    {
+        "english":"insurance",
+        "hungarian":"biztosítás",
+        "pronunciation":"\/ɪnˈʃʊərəns\/",
+        "example":"Safety is important."
+    },
+    {
+        "english":"accident",
+        "hungarian":"baleset",
+        "pronunciation":"\/ˈæksɪdənt\/",
+        "example":"Call emergency services."
+    },
+    {
+        "english":"safety",
+        "hungarian":"biztonság",
+        "pronunciation":"\/ˈseɪfti\/",
+        "example":"The rescue team arrived."
+    },
+    {
+        "english":"emergency",
+        "hungarian":"vészhelyzet",
+        "pronunciation":"\/ɪˈmɜːrdʒənsi\/",
+        "example":"The ambulance took him to the hospital."
+    },
+    {
+        "english":"rescue",
+        "hungarian":"mentés",
+        "pronunciation":"\/ˈrɛskjuː\/",
+        "example":"The clinic is open on weekends."
+    },
+    {
+        "english":"ambulance",
+        "hungarian":"mentő",
+        "pronunciation":"\/ˈæmbjʊləns\/",
+        "example":"The doctor is on call."
+    },
+    {
+        "english":"hospital",
+        "hungarian":"kórház",
+        "pronunciation":"\/ˈhɑːspɪtəl\/",
+        "example":"The nurse is helping the patient."
+    },
+    {
+        "english":"clinic",
+        "hungarian":"klinika",
+        "pronunciation":"\/ˈklɪnɪk\/",
+        "example":"The patient is resting."
+    },
+    {
+        "english":"doctor",
+        "hungarian":"orvos",
+        "pronunciation":"\/ˈdɑːktər\/",
+        "example":"He took medicine for his cold."
+    },
+    {
+        "english":"nurse",
+        "hungarian":"nővér",
+        "pronunciation":"\/nɜːrs\/",
+        "example":"The pill is small."
+    },
+    {
+        "english":"patient",
+        "hungarian":"beteg",
+        "pronunciation":"\/ˈpeɪʃənt\/",
+        "example":"She took a tablet for her headache."
+    },
+    {
+        "english":"medicine",
+        "hungarian":"gyógyszer",
+        "pronunciation":"\/ˈmɛdəsən\/",
+        "example":"The syrup is sweet."
+    },
+    {
+        "english":"pill",
+        "hungarian":"pirula",
+        "pronunciation":"\/pɪl\/",
+        "example":"The doctor gave a prescription."
+    },
+    {
+        "english":"syrup",
+        "hungarian":"szirup",
+        "pronunciation":"\/ˈsɪrəp\/",
+        "example":"The drug is effective."
+    },
+    {
+        "english":"prescription",
+        "hungarian":"recept",
+        "pronunciation":"\/prɪˈskrɪpʃən\/",
+        "example":"The treatment will take time."
+    },
+    {
+        "english":"pharmacy",
+        "hungarian":"gyógyszertár",
+        "pronunciation":"\/ˈfɑrməsi\/",
+        "example":"The cure is expensive."
+    },
+    {
+        "english":"drug",
+        "hungarian":"gyógyszer",
+        "pronunciation":"\/drʌɡ\/",
+        "example":"The vaccine is ready."
+    },
+    {
+        "english":"treatment",
+        "hungarian":"kezelés",
+        "pronunciation":"\/ˈtriːtmənt\/",
+        "example":"Health is wealth."
+    },
+    {
+        "english":"cure",
+        "hungarian":"gyógyítás",
+        "pronunciation":"\/kjʊr\/",
+        "example":"The illness is common in winter."
+    },
+    {
+        "english":"vaccine",
+        "hungarian":"vakcina",
+        "pronunciation":"\/ˈvæksin\/",
+        "example":"He has the flu."
+    },
+    {
+        "english":"health",
+        "hungarian":"egészség",
+        "pronunciation":"\/hɛlθ\/",
+        "example":"She caught a cold."
+    },
+    {
+        "english":"illness",
+        "hungarian":"betegség",
+        "pronunciation":"\/ˈɪlnəs\/",
+        "example":"He has a fever."
+    },
+    {
+        "english":"flu",
+        "hungarian":"influenza",
+        "pronunciation":"\/fluː\/",
+        "example":"The headache is severe."
+    },
+    {
+        "english":"cold",
+        "hungarian":"megfázás",
+        "pronunciation":"\/koʊld\/",
+        "example":"He is coughing a lot."
+    },
+    {
+        "english":"fever",
+        "hungarian":"láz",
+        "pronunciation":"\/ˈfiːvər\/",
+        "example":"She sneezed loudly."
+    },
+    {
+        "english":"headache",
+        "hungarian":"fejfájás",
+        "pronunciation":"\/ˈhɛdˌeɪk\/",
+        "example":"The pain is unbearable."
+    },
+    {
+        "english":"cough",
+        "hungarian":"köhögés",
+        "pronunciation":"\/kɔf\/",
+        "example":"He suffered an injury."
+    },
+    {
+        "english":"sneeze",
+        "hungarian":"tüsszentés",
+        "pronunciation":"\/sniːz\/",
+        "example":"The wound is healing."
+    },
+    {
+        "english":"pain",
+        "hungarian":"fájdalom",
+        "pronunciation":"\/peɪn\/",
+        "example":"He cut his finger."
+    },
+    {
+        "english":"injury",
+        "hungarian":"sérülés",
+        "pronunciation":"\/ˈɪnʤəri\/",
+        "example":"She has a bruise on her leg."
+    },
+    {
+        "english":"wound",
+        "hungarian":"seb",
+        "pronunciation":"\/wuːnd\/",
+        "example":"He burned his hand."
+    },
+    {
+        "english":"bruise",
+        "hungarian":"zúzódás",
+        "pronunciation":"\/bruz\/",
+        "example":"She sprained her ankle."
+    },
+    {
+        "english":"burn",
+        "hungarian":"égés",
+        "pronunciation":"\/bɜrn\/",
+        "example":"The doctor put a cast on his arm."
+    },
+    {
+        "english":"fracture",
+        "hungarian":"csonttörés",
+        "pronunciation":"\/ˈfræktʃər\/",
+        "example":"The bandage is tight."
+    },
+    {
+        "english":"sprain",
+        "hungarian":"rándulás",
+        "pronunciation":"\/spreɪn\/",
+        "example":"He got stitches for the cut."
+    },
+    {
+        "english":"cast",
+        "hungarian":"gipsz",
+        "pronunciation":"\/kæst\/",
+        "example":"The traffic light turned green."
+    },
+    {
+        "english":"bandage",
+        "hungarian":"kötés",
+        "pronunciation":"\/ˈbændɪʤ\/",
+        "example":"The patient felt better after the treatment."
+    },
+    {
+        "english":"stitches",
+        "hungarian":"varrat",
+        "pronunciation":"\/ˈstɪtʃɪz\/",
+        "example":"The ambulance arrived in time."
+    },
+    {
+        "english":"keyboard",
+        "hungarian":"billentyűzet",
+        "pronunciation":"\/ˈkiːbɔːrd\/",
+        "example":"The keyboard is broken."
+    },
+    {
+        "english":"monitor",
+        "hungarian":"monitor",
+        "pronunciation":"\/ˈmɑːnɪtər\/",
+        "example":"I bought a new monitor."
+    },
+    {
+        "english":"printer",
+        "hungarian":"nyomtató",
+        "pronunciation":"\/ˈprɪntər\/",
+        "example":"The printer ran out of ink."
+    },
+    {
+        "english":"scanner",
+        "hungarian":"szkenner",
+        "pronunciation":"\/ˈskænər\/",
+        "example":"The scanner is old."
+    },
+    {
+        "english":"speaker",
+        "hungarian":"hangszóró",
+        "pronunciation":"\/ˈspiːkər\/",
+        "example":"The speaker is too loud."
+    },
+    {
+        "english":"microphone",
+        "hungarian":"mikrofon",
+        "pronunciation":"\/ˈmaɪkrəˌfoʊn\/",
+        "example":"I use a microphone for calls."
+    },
+    {
+        "english":"headphones",
+        "hungarian":"fejhallgató",
+        "pronunciation":"\/ˈhɛdˌfoʊnz\/",
+        "example":"The headphones are comfortable."
+    },
+    {
+        "english":"smartphone",
+        "hungarian":"okostelefon",
+        "pronunciation":"\/ˈsmɑːrtˌfoʊn\/",
+        "example":"My smartphone has a large screen."
+    },
+    {
+        "english":"laptop",
+        "hungarian":"laptop",
+        "pronunciation":"\/ˈlæpˌtɑːp\/",
+        "example":"The laptop battery is dead."
+    },
+    {
+        "english":"desktop",
+        "hungarian":"asztali számítógép",
+        "pronunciation":"\/ˈdɛskˌtɑːp\/",
+        "example":"The desktop computer is powerful."
+    },
+    {
+        "english":"router",
+        "hungarian":"router",
+        "pronunciation":"\/ˈruːtər\/",
+        "example":"The router needs a reset."
+    },
+    {
+        "english":"modem",
+        "hungarian":"modem",
+        "pronunciation":"\/ˈmoʊdəm\/",
+        "example":"The modem is not working."
+    },
+    {
+        "english":"server",
+        "hungarian":"szerver",
+        "pronunciation":"\/ˈsɜːrvər\/",
+        "example":"The server is down for maintenance."
+    },
+    {
+        "english":"network",
+        "hungarian":"hálózat",
+        "pronunciation":"\/ˈnɛtwɜːrk\/",
+        "example":"The network is secure."
+    },
+    {
+        "english":"internet",
+        "hungarian":"internet",
+        "pronunciation":"\/ˈɪntərˌnɛt\/",
+        "example":"The internet is slow today."
+    },
+    {
+        "english":"website",
+        "hungarian":"weboldal",
+        "pronunciation":"\/ˈwɛbˌsaɪt\/",
+        "example":"The website is under construction."
+    },
+    {
+        "english":"browser",
+        "hungarian":"böngésző",
+        "pronunciation":"\/ˈbraʊzər\/",
+        "example":"I use a different browser."
+    },
+    {
+        "english":"software",
+        "hungarian":"szoftver",
+        "pronunciation":"\/ˈsɔːftˌwɛr\/",
+        "example":"The software update is ready."
+    },
+    {
+        "english":"hardware",
+        "hungarian":"hardver",
+        "pronunciation":"\/ˈhɑːrdˌwɛr\/",
+        "example":"The hardware is outdated."
+    },
+    {
+        "english":"operating system",
+        "hungarian":"operációs rendszer",
+        "pronunciation":"\/ˈɒpəreɪtɪŋ ˈsɪstəm\/",
+        "example":"Windows is an operating system."
+    },
+    {
+        "english":"file",
+        "hungarian":"fájl",
+        "pronunciation":"\/faɪl\/",
+        "example":"I saved the file."
+    },
+    {
+        "english":"folder",
+        "hungarian":"mappa",
+        "pronunciation":"\/ˈfoʊldər\/",
+        "example":"The folder is empty."
+    },
+    {
+        "english":"document",
+        "hungarian":"dokumentum",
+        "pronunciation":"\/ˈdɑːkjəmənt\/",
+        "example":"The document is confidential."
+    },
+    {
+        "english":"password",
+        "hungarian":"jelszó",
+        "pronunciation":"\/ˈpæsˌwɜːrd\/",
+        "example":"He forgot his password."
+    },
+    {
+        "english":"username",
+        "hungarian":"felhasználónév",
+        "pronunciation":"\/ˈjuːzərˌneɪm\/",
+        "example":"The username is taken."
+    },
+    {
+        "english":"login",
+        "hungarian":"bejelentkezés",
+        "pronunciation":"\/ˈlɔːɡɪn\/",
+        "example":"I need to login."
+    },
+    {
+        "english":"logout",
+        "hungarian":"kijelentkezés",
+        "pronunciation":"\/ˈlaʊtˌaʊt\/",
+        "example":"Please logout when finished."
+    },
+    {
+        "english":"application",
+        "hungarian":"alkalmazás",
+        "pronunciation":"\/ˈæplɪˌkeɪʃən\/",
+        "example":"I downloaded an application."
+    },
+    {
+        "english":"program",
+        "hungarian":"program",
+        "pronunciation":"\/ˈproʊˌɡræm\/",
+        "example":"The program crashed."
+    },
+    {
+        "english":"code",
+        "hungarian":"kód",
+        "pronunciation":"\/koʊd\/",
+        "example":"The code has an error."
+    },
+    {
+        "english":"algorithm",
+        "hungarian":"algoritmus",
+        "pronunciation":"\/ˈælɡəˌrɪðəm\/",
+        "example":"The algorithm is complex."
+    },
+    {
+        "english":"data",
+        "hungarian":"adat",
+        "pronunciation":"\/ˈdeɪtə\/",
+        "example":"Data is stored on the server."
+    },
+    {
+        "english":"database",
+        "hungarian":"adatbázis",
+        "pronunciation":"\/ˈdeɪtəˌbeɪs\/",
+        "example":"The database was corrupted."
+    },
+    {
+        "english":"storage",
+        "hungarian":"tárhely",
+        "pronunciation":"\/ˈstɔːrɪdʒ\/",
+        "example":"The storage is full."
+    },
+    {
+        "english":"memory",
+        "hungarian":"memória",
+        "pronunciation":"\/məˈmɔːri\/",
+        "example":"The memory is insufficient."
+    },
+    {
+        "english":"disk",
+        "hungarian":"lemez",
+        "pronunciation":"\/dɪsk\/",
+        "example":"The disk is damaged."
+    },
+    {
+        "english":"drive",
+        "hungarian":"meghajtó",
+        "pronunciation":"\/draɪv\/",
+        "example":"The drive is external."
+    },
+    {
+        "english":"USB",
+        "hungarian":"USB",
+        "pronunciation":"\/juːˈɛsˈbiː\/",
+        "example":"I need a USB cable."
+    },
+    {
+        "english":"cable",
+        "hungarian":"kábel",
+        "pronunciation":"\/ˈkeɪbəl\/",
+        "example":"The cable is too short."
+    },
+    {
+        "english":"plug",
+        "hungarian":"csatlakozó",
+        "pronunciation":"\/plʌɡ\/",
+        "example":"Plug it in here."
+    },
+    {
+        "english":"socket",
+        "hungarian":"aljzat",
+        "pronunciation":"\/ˈsɑːkɪt\/",
+        "example":"The socket is not working."
+    },
+    {
+        "english":"charger",
+        "hungarian":"töltő",
+        "pronunciation":"\/ˈtʃɑːrdʒər\/",
+        "example":"I lost my charger."
+    },
+    {
+        "english":"electric",
+        "hungarian":"elektromos",
+        "pronunciation":"\/ɪˈlɛktrɪk\/",
+        "example":"Electric devices should be handled with care."
+    },
+    {
+        "english":"wireless",
+        "hungarian":"vezeték nélküli",
+        "pronunciation":"\/ˈwaɪərˌlɛs\/",
+        "example":"Wireless headphones are convenient."
+    },
+    {
+        "english":"connection",
+        "hungarian":"kapcsolat",
+        "pronunciation":"\/kəˈnɛkʃən\/",
+        "example":"The connection was lost."
+    },
+    {
+        "english":"download",
+        "hungarian":"letöltés",
+        "pronunciation":"\/ˈdaʊnˌloʊd\/",
+        "example":"I need to download the file."
+    },
+    {
+        "english":"upload",
+        "hungarian":"feltöltés",
+        "pronunciation":"\/ˈʌpˌloʊd\/",
+        "example":"The upload is complete."
+    },
+    {
+        "english":"backup",
+        "hungarian":"biztonsági mentés",
+        "pronunciation":"\/ˈbækˌʌp\/",
+        "example":"The backup is essential."
+    },
+    {
+        "english":"restore",
+        "hungarian":"visszaállítás",
+        "pronunciation":"\/rɪˈstɔːr\/",
+        "example":"He restored the deleted files."
+    },
+    {
+        "english":"crash",
+        "hungarian":"összeomlás",
+        "pronunciation":"\/kræʃ\/",
+        "example":"The computer crashed unexpectedly."
+    },
+    {
+        "english":"error",
+        "hungarian":"hiba",
+        "pronunciation":"\/ˈɛrər\/",
+        "example":"An error occurred."
+    },
+    {
+        "english":"bug",
+        "hungarian":"bogár",
+        "pronunciation":"\/bʌɡ\/",
+        "example":"There is a bug in the code."
+    },
+    {
+        "english":"virus",
+        "hungarian":"vírus",
+        "pronunciation":"\/ˈvaɪrəs\/",
+        "example":"The virus is dangerous."
+    },
+    {
+        "english":"firewall",
+        "hungarian":"tűzfal",
+        "pronunciation":"\/ˈfaɪərˌwɔːl\/",
+        "example":"The firewall is active."
+    },
+    {
+        "english":"security",
+        "hungarian":"biztonság",
+        "pronunciation":"\/sɪˈkjʊərəti\/",
+        "example":"Security is a priority."
+    },
+    {
+        "english":"encryption",
+        "hungarian":"titkosítás",
+        "pronunciation":"\/ɪnˈkrɪpʃən\/",
+        "example":"Encryption keeps data safe."
+    },
+    {
+        "english":"networking",
+        "hungarian":"hálózatépítés",
+        "pronunciation":"\/ˈnɛtwɜːrkɪŋ\/",
+        "example":"Networking is important in business."
+    },
+    {
+        "english":"protocol",
+        "hungarian":"protokoll",
+        "pronunciation":"\/ˈproʊtəˌkɔːl\/",
+        "example":"The protocol is outdated."
+    },
+    {
+        "english":"bandwidth",
+        "hungarian":"sávszélesség",
+        "pronunciation":"\/ˈbændˌwɪdθ\/",
+        "example":"The bandwidth is limited."
+    },
+    {
+        "english":"sync",
+        "hungarian":"szinkronizálás",
+        "pronunciation":"\/sɪŋk\/",
+        "example":"I sync my data every day."
+    },
+    {
+        "english":"platform",
+        "hungarian":"platform",
+        "pronunciation":"\/ˈplætfɔːrm\/",
+        "example":"This platform is user-friendly."
+    },
+    {
+        "english":"virtual",
+        "hungarian":"virtuális",
+        "pronunciation":"\/ˈvɜːrtʃuəl\/",
+        "example":"He uses a virtual desktop."
+    },
+    {
+        "english":"reboot",
+        "hungarian":"újraindítás",
+        "pronunciation":"\/riˈbuːt\/",
+        "example":"Please reboot the system."
+    },
+    {
+        "english":"shutdown",
+        "hungarian":"leállítás",
+        "pronunciation":"\/ˈʃʌtˌdaʊn\/",
+        "example":"The computer needs a shutdown."
+    },
+    {
+        "english":"keyboard shortcut",
+        "hungarian":"billentyűkombináció",
+        "pronunciation":"\/ˈkiːˌbɔːrd ˈʃɔːrtˌkʌt\/",
+        "example":"I use a keyboard shortcut to save time."
+    },
+    {
+        "english":"settings",
+        "hungarian":"beállítások",
+        "pronunciation":"\/ˈsɛtɪŋz\/",
+        "example":"Change the settings if needed."
+    },
+    {
+        "english":"preferences",
+        "hungarian":"preferenciák",
+        "pronunciation":"\/ˈprɛfərənsɪz\/",
+        "example":"My preferences are different."
+    },
+    {
+        "english":"display",
+        "hungarian":"kijelző",
+        "pronunciation":"\/dɪˈspleɪ\/",
+        "example":"The display is bright."
+    },
+    {
+        "english":"resolution",
+        "hungarian":"felbontás",
+        "pronunciation":"\/ˌrɛzəˈluːʃən\/",
+        "example":"The resolution is high."
+    },
+    {
+        "english":"refresh",
+        "hungarian":"frissítés",
+        "pronunciation":"\/rɪˈfrɛʃ\/",
+        "example":"Refresh the page."
+    },
+    {
+        "english":"click",
+        "hungarian":"kattintás",
+        "pronunciation":"\/klɪk\/",
+        "example":"Click on the link."
+    },
+    {
+        "english":"double click",
+        "hungarian":"dupla kattintás",
+        "pronunciation":"\/ˈdʌbəl ˈklɪk\/",
+        "example":"Double click to open."
+    },
+    {
+        "english":"scroll",
+        "hungarian":"görgetés",
+        "pronunciation":"\/skroʊl\/",
+        "example":"Scroll down for more information."
+    },
+    {
+        "english":"drag",
+        "hungarian":"húzás",
+        "pronunciation":"\/dræɡ\/",
+        "example":"Drag the icon to the folder."
+    },
+    {
+        "english":"drop",
+        "hungarian":"elhelyezés",
+        "pronunciation":"\/drɑːp\/",
+        "example":"Drop it here."
+    },
+    {
+        "english":"paste",
+        "hungarian":"beillesztés",
+        "pronunciation":"\/peɪst\/",
+        "example":"Paste the text."
+    },
+    {
+        "english":"copy",
+        "hungarian":"másolás",
+        "pronunciation":"\/ˈkɒpi\/",
+        "example":"Copy the document."
+    },
+    {
+        "english":"delete",
+        "hungarian":"törlés",
+        "pronunciation":"\/dɪˈliːt\/",
+        "example":"Delete the extra files."
+    },
+    {
+        "english":"undo",
+        "hungarian":"visszavonás",
+        "pronunciation":"\/ˈʌnˌduː\/",
+        "example":"I made a mistake, let me undo."
+    },
+    {
+        "english":"redo",
+        "hungarian":"újra",
+        "pronunciation":"\/ˈriːˌdoʊ\/",
+        "example":"Redo the changes."
+    },
+    {
+        "english":"save",
+        "hungarian":"mentés",
+        "pronunciation":"\/seɪv\/",
+        "example":"Save the document frequently."
+    },
+    {
+        "english":"save as",
+        "hungarian":"mentés másként",
+        "pronunciation":"\/seɪv æz\/",
+        "example":"Save as a new version."
+    },
+    {
+        "english":"open",
+        "hungarian":"megnyitás",
+        "pronunciation":"\/ˈoʊpən\/",
+        "example":"Open the email attachment."
+    },
+    {
+        "english":"close",
+        "hungarian":"bezárás",
+        "pronunciation":"\/kloʊz\/",
+        "example":"Close the application."
+    },
+    {
+        "english":"exit",
+        "hungarian":"kilépés",
+        "pronunciation":"\/ˈɛgzɪt\/",
+        "example":"Exit the browser."
+    },
+    {
+        "english":"minimize",
+        "hungarian":"kicsinyítés",
+        "pronunciation":"\/ˈmɪnəˌmaɪz\/",
+        "example":"Minimize the window."
+    },
+    {
+        "english":"maximize",
+        "hungarian":"nagyítás",
+        "pronunciation":"\/ˈmæksəˌmaɪz\/",
+        "example":"Maximize the video."
+    },
+    {
+        "english":"tab",
+        "hungarian":"fül",
+        "pronunciation":"\/tæb\/",
+        "example":"Switch to the next tab."
+    },
+    {
+        "english":"toolbar",
+        "hungarian":"eszköztár",
+        "pronunciation":"\/ˈtʊlˌbɑːr\/",
+        "example":"The toolbar is missing."
+    },
+    {
+        "english":"menu",
+        "hungarian":"menü",
+        "pronunciation":"\/ˈmɛnjuː\/",
+        "example":"Select the option from the menu."
+    },
+    {
+        "english":"button",
+        "hungarian":"gomb",
+        "pronunciation":"\/ˈbʌtən\/",
+        "example":"Click the button."
+    },
+    {
+        "english":"icon",
+        "hungarian":"ikon",
+        "pronunciation":"\/ˈaɪˌkɒn\/",
+        "example":"The icon is not responding."
+    },
+    {
+        "english":"calendar",
+        "hungarian":"naptár",
+        "pronunciation":"\/ˈkælɪndər\/",
+        "example":"I checked the calendar for upcoming events."
+    },
+    {
+        "english":"schedule",
+        "hungarian":"ütemterv",
+        "pronunciation":"\/ˈskɛʤʊl\/",
+        "example":"The schedule is tight today."
+    },
+    {
+        "english":"appointment",
+        "hungarian":"időpont",
+        "pronunciation":"\/əˈpɔɪntmənt\/",
+        "example":"I have an appointment at 3 PM."
+    },
+    {
+        "english":"meeting",
+        "hungarian":"találkozó",
+        "pronunciation":"\/ˈmiːtɪŋ\/",
+        "example":"The meeting lasted two hours."
+    },
+    {
+        "english":"deadline",
+        "hungarian":"határidő",
+        "pronunciation":"\/ˈdɛdlaɪn\/",
+        "example":"The deadline is tomorrow."
+    },
+    {
+        "english":"event",
+        "hungarian":"esemény",
+        "pronunciation":"\/ɪˈvɛnt\/",
+        "example":"The event was a success."
+    },
+    {
+        "english":"conference",
+        "hungarian":"konferencia",
+        "pronunciation":"\/ˈkɒnfərəns\/",
+        "example":"The conference starts next week."
+    },
+    {
+        "english":"webinar",
+        "hungarian":"webinárium",
+        "pronunciation":"\/ˈwɛbɪˌnɑːr\/",
+        "example":"I attended a webinar on marketing."
+    },
+    {
+        "english":"task",
+        "hungarian":"feladat",
+        "pronunciation":"\/tæsk\/",
+        "example":"I have a task to finish."
+    },
+    {
+        "english":"to-do list",
+        "hungarian":"teendő lista",
+        "pronunciation":"\/tuː-duː lɪst\/",
+        "example":"The to-do list is getting longer."
+    },
+    {
+        "english":"reminder",
+        "hungarian":"emlékeztető",
+        "pronunciation":"\/rɪˈmaɪndər\/",
+        "example":"I set a reminder for the meeting."
+    },
+    {
+        "english":"alarm",
+        "hungarian":"ébresztő",
+        "pronunciation":"\/əˈlɑːrm\/",
+        "example":"The alarm went off early in the morning."
+    },
+    {
+        "english":"notification",
+        "hungarian":"értesítés",
+        "pronunciation":"\/ˌnoʊtɪfɪˈkeɪʃən\/",
+        "example":"I received a notification on my phone."
+    },
+    {
+        "english":"planner",
+        "hungarian":"tervező",
+        "pronunciation":"\/ˈplænər\/",
+        "example":"I use a planner to organize my day."
+    },
+    {
+        "english":"agenda",
+        "hungarian":"napirend",
+        "pronunciation":"\/əˈʤɛndə\/",
+        "example":"The agenda includes several important topics."
+    },
+    {
+        "english":"goal",
+        "hungarian":"cél",
+        "pronunciation":"\/ɡoʊl\/",
+        "example":"My goal is to complete the project by next week."
+    },
+    {
+        "english":"objective",
+        "hungarian":"célkitűzés",
+        "pronunciation":"\/əbˈʤɛktɪv\/",
+        "example":"The objective is to increase sales."
+    },
+    {
+        "english":"target",
+        "hungarian":"célpont",
+        "pronunciation":"\/ˈtɑːrɡɪt\/",
+        "example":"We need to reach the target by the end of the year."
+    },
+    {
+        "english":"priority",
+        "hungarian":"prioritás",
+        "pronunciation":"\/praɪˈɒrəti\/",
+        "example":"Priority should be given to urgent tasks."
+    },
+    {
+        "english":"commitment",
+        "hungarian":"elkötelezettség",
+        "pronunciation":"\/kəˈmɪtmənt\/",
+        "example":"He made a commitment to help."
+    },
+    {
+        "english":"invitation",
+        "hungarian":"meghívás",
+        "pronunciation":"\/ˌɪnvəˈteɪʃən\/",
+        "example":"I sent out invitations for the party."
+    },
+    {
+        "english":"attendance",
+        "hungarian":"részvétel",
+        "pronunciation":"\/əˈtɛndəns\/",
+        "example":"Attendance was mandatory."
+    },
+    {
+        "english":"participate",
+        "hungarian":"részt vesz",
+        "pronunciation":"\/pɑːrˈtɪsəˌpeɪt\/",
+        "example":"We participate in team activities."
+    },
+    {
+        "english":"organize",
+        "hungarian":"szervez",
+        "pronunciation":"\/ˈɔːrɡənaɪz\/",
+        "example":"We organized a charity event."
+    },
+    {
+        "english":"host",
+        "hungarian":"vendégül lát",
+        "pronunciation":"\/hoʊst\/",
+        "example":"She will host the meeting."
+    },
+    {
+        "english":"cancel",
+        "hungarian":"lemond",
+        "pronunciation":"\/ˈkænsəl\/",
+        "example":"The event was canceled due to bad weather."
+    },
+    {
+        "english":"reschedule",
+        "hungarian":"átütemez",
+        "pronunciation":"\/riˈʃɛdjuːl\/",
+        "example":"We rescheduled the appointment."
+    },
+    {
+        "english":"postpone",
+        "hungarian":"elhalaszt",
+        "pronunciation":"\/pəˈspoʊn\/",
+        "example":"The meeting was postponed."
+    },
+    {
+        "english":"confirm",
+        "hungarian":"megerősít",
+        "pronunciation":"\/ˈkɒnfərm\/",
+        "example":"Please confirm your attendance."
+    },
+    {
+        "english":"decline",
+        "hungarian":"elutasít",
+        "pronunciation":"\/dɪˈklaɪn\/",
+        "example":"He declined the offer."
+    },
+    {
+        "english":"accept",
+        "hungarian":"elfogad",
+        "pronunciation":"\/əkˈsɛpt\/",
+        "example":"I accept your invitation."
+    },
+    {
+        "english":"invite",
+        "hungarian":"meghív",
+        "pronunciation":"\/ˈɪnvaɪt\/",
+        "example":"We invited all employees."
+    },
+    {
+        "english":"remind",
+        "hungarian":"emlékeztet",
+        "pronunciation":"\/rɪˈmaɪnd\/",
+        "example":"Remind me to call him."
+    },
+    {
+        "english":"notify",
+        "hungarian":"értesít",
+        "pronunciation":"\/ˈnoʊtɪfaɪ\/",
+        "example":"I will notify you of any changes."
+    },
+    {
+        "english":"alert",
+        "hungarian":"figyelmeztetés",
+        "pronunciation":"\/əˈlɜːrt\/",
+        "example":"The alert was triggered."
+    },
+    {
+        "english":"plan",
+        "hungarian":"terv",
+        "pronunciation":"\/plæn\/",
+        "example":"We need to plan our next steps."
+    },
+    {
+        "english":"prepare",
+        "hungarian":"felkészül",
+        "pronunciation":"\/prɪˈpɛər\/",
+        "example":"Prepare for the presentation."
+    },
+    {
+        "english":"arrange",
+        "hungarian":"rendez",
+        "pronunciation":"\/əˈreɪnʤ\/",
+        "example":"We arranged a meeting for tomorrow."
+    },
+    {
+        "english":"coordinate",
+        "hungarian":"koordinál",
+        "pronunciation":"\/koʊˈɔːrdəneɪt\/",
+        "example":"Coordinate with the team."
+    },
+    {
+        "english":"follow-up",
+        "hungarian":"utókövetés",
+        "pronunciation":"\/ˈfɑːloʊˌʌp\/",
+        "example":"Follow-up is important after meetings."
+    },
+    {
+        "english":"briefing",
+        "hungarian":"tájékoztató",
+        "pronunciation":"\/ˈbriːfɪŋ\/",
+        "example":"The briefing was short but informative."
+    },
+    {
+        "english":"discussion",
+        "hungarian":"megbeszélés",
+        "pronunciation":"\/dɪˈskʌʃən\/",
+        "example":"We had a discussion about the project."
+    },
+    {
+        "english":"debate",
+        "hungarian":"vita",
+        "pronunciation":"\/dɪˈbeɪt\/",
+        "example":"The debate was intense."
+    },
+    {
+        "english":"decision",
+        "hungarian":"döntés",
+        "pronunciation":"\/dɪˈsɪʒən\/",
+        "example":"The decision was unanimous."
+    },
+    {
+        "english":"disagreement",
+        "hungarian":"nézeteltérés",
+        "pronunciation":"\/ˌdɪsəˈɡriːmənt\/",
+        "example":"There was a disagreement on the plan."
+    },
+    {
+        "english":"proposal",
+        "hungarian":"javaslat",
+        "pronunciation":"\/prəˈpoʊzəl\/",
+        "example":"The proposal was well received."
+    },
+    {
+        "english":"suggestion",
+        "hungarian":"ötlet",
+        "pronunciation":"\/səˈʤɛsʧən\/",
+        "example":"I have a suggestion for the improvement."
+    },
+    {
+        "english":"negotiation",
+        "hungarian":"tárgyalás",
+        "pronunciation":"\/nɪˌɡoʊʃiˈeɪʃən\/",
+        "example":"The negotiation took hours."
+    },
+    {
+        "english":"contract",
+        "hungarian":"szerződés",
+        "pronunciation":"\/ˈkɒntrækt\/",
+        "example":"The contract was signed."
+    },
+    {
+        "english":"deal",
+        "hungarian":"üzlet",
+        "pronunciation":"\/diːl\/",
+        "example":"We closed the deal."
+    },
+    {
+        "english":"settlement",
+        "hungarian":"megállapodás",
+        "pronunciation":"\/ˈsɛtəlmənt\/",
+        "example":"The settlement was fair."
+    },
+    {
+        "english":"condition",
+        "hungarian":"feltétel",
+        "pronunciation":"\/kənˈdɪʃən\/",
+        "example":"These are the conditions of the contract."
+    },
+    {
+        "english":"terms",
+        "hungarian":"feltételek",
+        "pronunciation":"\/tɜrmz\/",
+        "example":"The terms were discussed."
+    },
+    {
+        "english":"signature",
+        "hungarian":"aláírás",
+        "pronunciation":"\/ˈsɪgnəʧər\/",
+        "example":"He signed the document."
+    },
+    {
+        "english":"legal",
+        "hungarian":"jogi",
+        "pronunciation":"\/ˈliːɡəl\/",
+        "example":"It is a legal obligation."
+    },
+    {
+        "english":"binding",
+        "hungarian":"kötelező",
+        "pronunciation":"\/ˈbaɪndɪŋ\/",
+        "example":"The agreement is binding."
+    },
+    {
+        "english":"approve",
+        "hungarian":"jóváhagy",
+        "pronunciation":"\/əˈpruːv\/",
+        "example":"The manager approved the request."
+    },
+    {
+        "english":"reject",
+        "hungarian":"elutasít",
+        "pronunciation":"\/rɪˈʤɛkt\/",
+        "example":"They rejected the proposal."
+    },
+    {
+        "english":"consider",
+        "hungarian":"megfontol",
+        "pronunciation":"\/kənˈsɪdər\/",
+        "example":"We considered all options."
+    },
+    {
+        "english":"discuss",
+        "hungarian":"megbeszél",
+        "pronunciation":"\/dɪˈskʌs\/",
+        "example":"We discussed the problem in detail."
+    },
+    {
+        "english":"evaluate",
+        "hungarian":"értékel",
+        "pronunciation":"\/ɪˈvæljueɪt\/",
+        "example":"We need to evaluate the results."
+    },
+    {
+        "english":"assess",
+        "hungarian":"felmér",
+        "pronunciation":"\/əˈsɛs\/",
+        "example":"The data was assessed."
+    },
+    {
+        "english":"review",
+        "hungarian":"felülvizsgál",
+        "pronunciation":"\/rɪˈvjuː\/",
+        "example":"We reviewed the document."
+    },
+    {
+        "english":"feedback",
+        "hungarian":"visszajelzés",
+        "pronunciation":"\/ˈfiːdbæk\/",
+        "example":"The feedback was positive."
+    },
+    {
+        "english":"opinion",
+        "hungarian":"vélemény",
+        "pronunciation":"\/əˈpɪnjən\/",
+        "example":"I appreciate your opinion."
+    },
+    {
+        "english":"comment",
+        "hungarian":"megjegyzés",
+        "pronunciation":"\/ˈkɑːmənt\/",
+        "example":"She made a comment."
+    },
+    {
+        "english":"issue",
+        "hungarian":"probléma",
+        "pronunciation":"\/ˈɪʃuː\/",
+        "example":"There was an issue with the system."
+    },
+    {
+        "english":"point",
+        "hungarian":"pont",
+        "pronunciation":"\/pɔɪnt\/",
+        "example":"The point he made was valid."
+    },
+    {
+        "english":"argument",
+        "hungarian":"érv",
+        "pronunciation":"\/ˈɑːrɡjəmənt\/",
+        "example":"His argument was convincing."
+    },
+    {
+        "english":"evidence",
+        "hungarian":"bizonyíték",
+        "pronunciation":"\/ˈɛvədəns\/",
+        "example":"There was no evidence."
+    },
+    {
+        "english":"perspective",
+        "hungarian":"nézőpont",
+        "pronunciation":"\/pərˈspɛktɪv\/",
+        "example":"From his perspective, it was a good idea."
+    },
+    {
+        "english":"viewpoint",
+        "hungarian":"álláspont",
+        "pronunciation":"\/ˈvjuːˌpɔɪnt\/",
+        "example":"My viewpoint is different."
+    },
+    {
+        "english":"support",
+        "hungarian":"támogat",
+        "pronunciation":"\/səˈpɔːrt\/",
+        "example":"We support the proposal."
+    },
+    {
+        "english":"oppose",
+        "hungarian":"ellenáll",
+        "pronunciation":"\/əˈpoʊz\/",
+        "example":"I oppose this decision."
+    },
+    {
+        "english":"clarify",
+        "hungarian":"tisztáz",
+        "pronunciation":"\/ˈklærɪfaɪ\/",
+        "example":"Please clarify your statement."
+    },
+    {
+        "english":"explain",
+        "hungarian":"magyaráz",
+        "pronunciation":"\/ɪkˈspleɪn\/",
+        "example":"He explained the process."
+    },
+    {
+        "english":"justify",
+        "hungarian":"igazol",
+        "pronunciation":"\/ˈʤʌstəˌfaɪ\/",
+        "example":"She justified her actions."
+    },
+    {
+        "english":"elaborate",
+        "hungarian":"kifejt",
+        "pronunciation":"\/ɪˈlæbəˌreɪt\/",
+        "example":"He elaborated on his point."
+    },
+    {
+        "english":"summarize",
+        "hungarian":"összefoglal",
+        "pronunciation":"\/ˈsʌməˌraɪz\/",
+        "example":"The document was summarized."
+    },
+    {
+        "english":"highlight",
+        "hungarian":"kiemel",
+        "pronunciation":"\/ˈhaɪˌlaɪt\/",
+        "example":"He highlighted the key points."
+    },
+    {
+        "english":"emphasize",
+        "hungarian":"hangsúlyoz",
+        "pronunciation":"\/ˈɛmfəˌsaɪz\/",
+        "example":"They emphasized the importance of safety."
+    },
+    {
+        "english":"reiterate",
+        "hungarian":"megismétel",
+        "pronunciation":"\/riˈɪtəˌreɪt\/",
+        "example":"I will reiterate the main points."
+    },
+    {
+        "english":"state",
+        "hungarian":"állít",
+        "pronunciation":"\/steɪt\/",
+        "example":"She stated her opinion."
+    },
+    {
+        "english":"mention",
+        "hungarian":"megemlít",
+        "pronunciation":"\/ˈmɛnʃən\/",
+        "example":"He mentioned the deadline."
+    },
+    {
+        "english":"respond",
+        "hungarian":"válaszol",
+        "pronunciation":"\/rɪˈspɒnd\/",
+        "example":"She responded quickly."
+    },
+    {
+        "english":"reply",
+        "hungarian":"felel",
+        "pronunciation":"\/rɪˈplaɪ\/",
+        "example":"He replied to the email."
+    },
+    {
+        "english":"acknowledge",
+        "hungarian":"elismer",
+        "pronunciation":"\/ækˈnɑːlɪʤ\/",
+        "example":"She acknowledged the mistake."
+    },
+    {
+        "english":"address",
+        "hungarian":"kezel",
+        "pronunciation":"\/əˈdrɛs\/",
+        "example":"We need to address this issue."
+    },
+    {
+        "english":"remark",
+        "hungarian":"megjegyzés",
+        "pronunciation":"\/rɪˈmɑːrk\/",
+        "example":"She made a remark."
+    },
+    {
+        "english":"quote",
+        "hungarian":"idézet",
+        "pronunciation":"\/kwoʊt\/",
+        "example":"He quoted a famous author."
+    },
+    {
+        "english":"cite",
+        "hungarian":"idéz",
+        "pronunciation":"\/saɪt\/",
+        "example":"She cited her sources."
+    },
+    {
+        "english":"source",
+        "hungarian":"forrás",
+        "pronunciation":"\/sɔːrs\/",
+        "example":"The source of the information is credible."
+    },
+    {
+        "english":"project",
+        "hungarian":"projekt",
+        "pronunciation":"\/ˈprɑːʤɛkt\/",
+        "example":"We worked on the project all day."
+    },
+    {
+        "english":"assignment",
+        "hungarian":"feladat",
+        "pronunciation":"\/əˈsaɪnmənt\/",
+        "example":"She completed her assignment on time."
+    },
+    {
+        "english":"homework",
+        "hungarian":"házi feladat",
+        "pronunciation":"\/ˈhoʊmˌwɜːrk\/",
+        "example":"He forgot to do his homework."
+    },
+    {
+        "english":"exam",
+        "hungarian":"vizsga",
+        "pronunciation":"\/ɪɡˈzæm\/",
+        "example":"The exam was difficult."
+    },
+    {
+        "english":"test",
+        "hungarian":"teszt",
+        "pronunciation":"\/tɛst\/",
+        "example":"I passed the test."
+    },
+    {
+        "english":"quiz",
+        "hungarian":"kvíz",
+        "pronunciation":"\/kwɪz\/",
+        "example":"The quiz was easy."
+    },
+    {
+        "english":"grade",
+        "hungarian":"osztályzat",
+        "pronunciation":"\/ɡreɪd\/",
+        "example":"She received a good grade."
+    },
+    {
+        "english":"score",
+        "hungarian":"pontszám",
+        "pronunciation":"\/skɔːr\/",
+        "example":"He scored high on the test."
+    },
+    {
+        "english":"result",
+        "hungarian":"eredmény",
+        "pronunciation":"\/rɪˈzʌlt\/",
+        "example":"The result was surprising."
+    },
+    {
+        "english":"evaluation",
+        "hungarian":"értékelés",
+        "pronunciation":"\/ɪˌvæljuˈeɪʃən\/",
+        "example":"The evaluation was fair."
+    },
+    {
+        "english":"performance",
+        "hungarian":"teljesítmény",
+        "pronunciation":"\/pərˈfɔːrməns\/",
+        "example":"His performance was outstanding."
+    },
+    {
+        "english":"assessment",
+        "hungarian":"felmérés",
+        "pronunciation":"\/əˈsɛsmənt\/",
+        "example":"The assessment showed improvement."
+    },
+    {
+        "english":"progress",
+        "hungarian":"haladás",
+        "pronunciation":"\/ˈprɑːˌɡrɛs\/",
+        "example":"The student made great progress."
+    },
+    {
+        "english":"improvement",
+        "hungarian":"fejlődés",
+        "pronunciation":"\/ɪmˈpruːvmənt\/",
+        "example":"She showed improvement over time."
+    },
+    {
+        "english":"achievement",
+        "hungarian":"eredmény",
+        "pronunciation":"\/əˈʧiːvmənt\/",
+        "example":"His achievement was recognized."
+    },
+    {
+        "english":"failure",
+        "hungarian":"bukás",
+        "pronunciation":"\/ˈfeɪljər\/",
+        "example":"The project ended in failure."
+    },
+    {
+        "english":"success",
+        "hungarian":"siker",
+        "pronunciation":"\/səkˈsɛs\/",
+        "example":"The event was a success."
+    },
+    {
+        "english":"effort",
+        "hungarian":"erőfeszítés",
+        "pronunciation":"\/ˈɛfərt\/",
+        "example":"He put in a lot of effort."
+    },
+    {
+        "english":"attempt",
+        "hungarian":"kísérlet",
+        "pronunciation":"\/əˈtɛmpt\/",
+        "example":"She made an attempt to solve the problem."
+    },
+    {
+        "english":"participation",
+        "hungarian":"részvétel",
+        "pronunciation":"\/pɑːrtəˈsɪpeɪʃən\/",
+        "example":"Participation is important in class."
+    },
+    {
+        "english":"contribution",
+        "hungarian":"hozzájárulás",
+        "pronunciation":"\/ˌkɒntrəˈbjuːʃən\/",
+        "example":"He made a valuable contribution."
+    },
+    {
+        "english":"collaboration",
+        "hungarian":"együttműködés",
+        "pronunciation":"\/kəˌlæbəˈreɪʃən\/",
+        "example":"Collaboration is key to success."
+    },
+    {
+        "english":"teamwork",
+        "hungarian":"csapatmunka",
+        "pronunciation":"\/ˈtiːmˌwɜːrk\/",
+        "example":"Teamwork makes the dream work."
+    },
+    {
+        "english":"individual",
+        "hungarian":"egyéni",
+        "pronunciation":"\/ˌɪndəˈvɪʤuəl\/",
+        "example":"The individual effort was appreciated."
+    },
+    {
+        "english":"group",
+        "hungarian":"csoport",
+        "pronunciation":"\/ɡruːp\/",
+        "example":"The group presented well."
+    },
+    {
+        "english":"class",
+        "hungarian":"osztály",
+        "pronunciation":"\/klæs\/",
+        "example":"The class is learning history."
+    },
+    {
+        "english":"teacher",
+        "hungarian":"tanár",
+        "pronunciation":"\/ˈtiːʧər\/",
+        "example":"The teacher explained the concept."
+    },
+    {
+        "english":"instructor",
+        "hungarian":"oktató",
+        "pronunciation":"\/ɪnˈstrʌktər\/",
+        "example":"The instructor is experienced."
+    },
+    {
+        "english":"student",
+        "hungarian":"diák",
+        "pronunciation":"\/ˈstuːdənt\/",
+        "example":"The student asked a question."
+    },
+    {
+        "english":"learner",
+        "hungarian":"tanuló",
+        "pronunciation":"\/ˈlɜːrnər\/",
+        "example":"The learner was motivated."
+    },
+    {
+        "english":"classroom",
+        "hungarian":"tanterem",
+        "pronunciation":"\/ˈklæsˌruːm\/",
+        "example":"The classroom was noisy."
+    },
+    {
+        "english":"lecture",
+        "hungarian":"előadás",
+        "pronunciation":"\/ˈlɛkʧər\/",
+        "example":"The lecture was informative."
+    },
+    {
+        "english":"seminar",
+        "hungarian":"szeminárium",
+        "pronunciation":"\/ˈsɛmɪˌnɑːr\/",
+        "example":"The seminar was interactive."
+    },
+    {
+        "english":"workshop",
+        "hungarian":"műhelymunka",
+        "pronunciation":"\/ˈwɜːrkˌʃɑːp\/",
+        "example":"The workshop taught new skills."
+    },
+    {
+        "english":"course",
+        "hungarian":"kurzus",
+        "pronunciation":"\/kɔːrs\/",
+        "example":"The course is challenging."
+    },
+    {
+        "english":"lesson",
+        "hungarian":"lecke",
+        "pronunciation":"\/ˈlɛsən\/",
+        "example":"The lesson was interesting."
+    },
+    {
+        "english":"subject",
+        "hungarian":"tantárgy",
+        "pronunciation":"\/ˈsʌbʤɪkt\/",
+        "example":"The subject is science."
+    },
+    {
+        "english":"curriculum",
+        "hungarian":"tanterv",
+        "pronunciation":"\/kəˈrɪkjʊləm\/",
+        "example":"The curriculum includes multiple subjects."
+    },
+    {
+        "english":"syllabus",
+        "hungarian":"tananyag",
+        "pronunciation":"\/ˈsɪləbəs\/",
+        "example":"The syllabus is comprehensive."
+    },
+    {
+        "english":"education",
+        "hungarian":"oktatás",
+        "pronunciation":"\/ˌɛʤʊˈkeɪʃən\/",
+        "example":"Education is the key to success."
+    },
+    {
+        "english":"learning",
+        "hungarian":"tanulás",
+        "pronunciation":"\/ˈlɜːrnɪŋ\/",
+        "example":"Learning is a lifelong process."
+    },
+    {
+        "english":"knowledge",
+        "hungarian":"tudás",
+        "pronunciation":"\/ˈnɑːlɪʤ\/",
+        "example":"Knowledge is power."
+    },
+    {
+        "english":"wisdom",
+        "hungarian":"bölcsesség",
+        "pronunciation":"\/ˈwɪzdəm\/",
+        "example":"Wisdom comes with experience."
+    },
+    {
+        "english":"skill",
+        "hungarian":"készség",
+        "pronunciation":"\/skɪl\/",
+        "example":"This skill takes practice."
+    },
+    {
+        "english":"ability",
+        "hungarian":"képesség",
+        "pronunciation":"\/əˈbɪləti\/",
+        "example":"He has the ability to learn quickly."
+    },
+    {
+        "english":"talent",
+        "hungarian":"tehetség",
+        "pronunciation":"\/ˈtælənt\/",
+        "example":"She has a talent for painting."
+    },
+    {
+        "english":"practice",
+        "hungarian":"gyakorlás",
+        "pronunciation":"\/ˈpræktəs\/",
+        "example":"Practice makes perfect."
+    },
+    {
+        "english":"training",
+        "hungarian":"képzés",
+        "pronunciation":"\/ˈtreɪnɪŋ\/",
+        "example":"Training is essential for the job."
+    },
+    {
+        "english":"exercise",
+        "hungarian":"gyakorlat",
+        "pronunciation":"\/ˈɛksərˌsaɪz\/",
+        "example":"He did the exercise every day."
+    },
+    {
+        "english":"research",
+        "hungarian":"kutatás",
+        "pronunciation":"\/rɪˈsɜːrʧ\/",
+        "example":"Research is crucial in science."
+    },
+    {
+        "english":"study",
+        "hungarian":"tanulmány",
+        "pronunciation":"\/ˈstʌdi\/",
+        "example":"She studied hard for the test."
+    },
+    {
+        "english":"experiment",
+        "hungarian":"kísérlet",
+        "pronunciation":"\/ɪkˈspɛrəmənt\/",
+        "example":"The experiment was successful."
+    },
+    {
+        "english":"observation",
+        "hungarian":"megfigyelés",
+        "pronunciation":"\/ˌɑːbzərˈveɪʃən\/",
+        "example":"They made an observation during the experiment."
+    },
+    {
+        "english":"analysis",
+        "hungarian":"elemzés",
+        "pronunciation":"\/əˈnæləsəs\/",
+        "example":"The analysis was detailed."
+    },
+    {
+        "english":"survey",
+        "hungarian":"felmérés",
+        "pronunciation":"\/ˈsɜrˌveɪ\/",
+        "example":"They conducted a survey."
+    },
+    {
+        "english":"data collection",
+        "hungarian":"adatgyűjtés",
+        "pronunciation":"\/ˈdeɪtə kəˌlɛkʃən\/",
+        "example":"Data collection is ongoing."
+    },
+    {
+        "english":"report",
+        "hungarian":"jelentés",
+        "pronunciation":"\/rɪˈpɔːrt\/",
+        "example":"The report was submitted."
+    },
+    {
+        "english":"findings",
+        "hungarian":"eredmények",
+        "pronunciation":"\/ˈfaɪndɪŋz\/",
+        "example":"The findings were significant."
+    },
+    {
+        "english":"theory",
+        "hungarian":"elmélet",
+        "pronunciation":"\/ˈθɪəri\/",
+        "example":"The theory is well known."
+    },
+    {
+        "english":"hypothesis",
+        "hungarian":"hipotézis",
+        "pronunciation":"\/haɪˈpɑːθəsɪs\/",
+        "example":"The hypothesis was tested."
+    },
+    {
+        "english":"concept",
+        "hungarian":"koncepció",
+        "pronunciation":"\/ˈkɑːnsɛpt\/",
+        "example":"The concept is difficult to understand."
+    },
+    {
+        "english":"definition",
+        "hungarian":"definíció",
+        "pronunciation":"\/ˌdɛfəˈnɪʃən\/",
+        "example":"The definition was clear."
+    },
+    {
+        "english":"explanation",
+        "hungarian":"magyarázat",
+        "pronunciation":"\/ɪkˌspleɪnəˈʃən\/",
+        "example":"The explanation helped a lot."
+    },
+    {
+        "english":"diagram",
+        "hungarian":"ábra",
+        "pronunciation":"\/ˈdaɪəˌɡræm\/",
+        "example":"The diagram made it easier to understand."
+    },
+    {
+        "english":"chart",
+        "hungarian":"diagram",
+        "pronunciation":"\/ʧɑːrt\/",
+        "example":"The chart shows the data."
+    },
+    {
+        "english":"graph",
+        "hungarian":"grafikon",
+        "pronunciation":"\/ɡræf\/",
+        "example":"The graph represents the results."
+    },
+    {
+        "english":"textbook",
+        "hungarian":"tankönyv",
+        "pronunciation":"\/ˈtɛkstˌbʊk\/",
+        "example":"I used the textbook to study."
+    },
+    {
+        "english":"article",
+        "hungarian":"cikk",
+        "pronunciation":"\/ˈɑːrtɪkəl\/",
+        "example":"I read an interesting article."
+    },
+    {
+        "english":"paper",
+        "hungarian":"tanulmány",
+        "pronunciation":"\/ˈpeɪpər\/",
+        "example":"The paper was published last year."
+    },
+    {
+        "english":"publication",
+        "hungarian":"kiadvány",
+        "pronunciation":"\/ˌpʌblɪˈkeɪʃən\/",
+        "example":"The publication is well-known."
+    },
+    {
+        "english":"journal",
+        "hungarian":"folyóirat",
+        "pronunciation":"\/ˈʤɜrnəl\/",
+        "example":"The journal contains many studies."
+    },
+    {
+        "english":"library",
+        "hungarian":"könyvtár",
+        "pronunciation":"\/ˈlaɪˌbrɛri\/",
+        "example":"Reading is a good habit."
+    },
+    {
+        "english":"reading",
+        "hungarian":"olvasás",
+        "pronunciation":"\/ˈriːdɪŋ\/",
+        "example":"She enjoys writing stories."
+    },
+    {
+        "english":"writing",
+        "hungarian":"írás",
+        "pronunciation":"\/ˈraɪtɪŋ\/",
+        "example":"His spelling is excellent."
+    },
+    {
+        "english":"spelling",
+        "hungarian":"helyesírás",
+        "pronunciation":"\/ˈspɛlɪŋ\/",
+        "example":"Grammar is important in writing."
+    },
+    {
+        "english":"grammar",
+        "hungarian":"nyelvtan",
+        "pronunciation":"\/ˈɡræmər\/",
+        "example":"He has a large vocabulary."
+    },
+    {
+        "english":"vocabulary",
+        "hungarian":"szókincs",
+        "pronunciation":"\/voʊˈkæbjəˌlɛri\/",
+        "example":"Pronunciation is difficult for some words."
+    },
+    {
+        "english":"pronunciation",
+        "hungarian":"kiejtés",
+        "pronunciation":"\/prəˌnʌnsɪˈeɪʃən\/",
+        "example":"She speaks three languages."
+    },
+    {
+        "english":"language",
+        "hungarian":"nyelv",
+        "pronunciation":"\/ˈlæŋɡwɪʤ\/",
+        "example":"The translation was accurate."
+    },
+    {
+        "english":"translation",
+        "hungarian":"fordítás",
+        "pronunciation":"\/trænsˈleɪʃən\/",
+        "example":"Interpretation requires skill."
+    },
+    {
+        "english":"interpretation",
+        "hungarian":"tolmácsolás",
+        "pronunciation":"\/ˌɪntərprɪˈteɪʃən\/",
+        "example":"Fluency comes with practice."
+    },
+    {
+        "english":"fluency",
+        "hungarian":"folyékonyság",
+        "pronunciation":"\/ˈfluːənsi\/",
+        "example":"Good communication is essential."
+    },
+    {
+        "english":"communication",
+        "hungarian":"kommunikáció",
+        "pronunciation":"\/kəˌmjunɪˈkeɪʃən\/",
+        "example":"They had a conversation about the project."
+    },
+    {
+        "english":"conversation",
+        "hungarian":"beszélgetés",
+        "pronunciation":"\/ˌkɒnvərˈseɪʃən\/",
+        "example":"The dialogue was interesting."
+    },
+    {
+        "english":"dialogue",
+        "hungarian":"párbeszéd",
+        "pronunciation":"\/ˈdaɪəˌlɔːɡ\/",
+        "example":"The discussion was productive."
+    },
+    {
+        "english":"question",
+        "hungarian":"kérdés",
+        "pronunciation":"\/ˈkwɛsʧən\/",
+        "example":"She gave a detailed answer."
+    },
+    {
+        "english":"answer",
+        "hungarian":"válasz",
+        "pronunciation":"\/ˈænsər\/",
+        "example":"The response was quick."
+    },
+    {
+        "english":"response",
+        "hungarian":"reakció",
+        "pronunciation":"\/rɪˈspɑːns\/",
+        "example":"He made a comment."
+    },
+    {
+        "english":"idea",
+        "hungarian":"ötlet",
+        "pronunciation":"\/aɪˈdiːə\/",
+        "example":"The thought crossed my mind."
+    },
+    {
+        "english":"thought",
+        "hungarian":"gondolat",
+        "pronunciation":"\/θɔːt\/",
+        "example":"The mind is powerful."
+    },
+    {
+        "english":"mind",
+        "hungarian":"elme",
+        "pronunciation":"\/maɪnd\/",
+        "example":"They had a brainstorming session."
+    },
+    {
+        "english":"brainstorm",
+        "hungarian":"ötletelés",
+        "pronunciation":"\/ˈbreɪnˌstɔːrm\/",
+        "example":"Creativity is encouraged."
+    },
+    {
+        "english":"creativity",
+        "hungarian":"kreativitás",
+        "pronunciation":"\/ˌkriːeɪˈtɪvɪti\/",
+        "example":"Innovation drives progress."
+    },
+    {
+        "english":"innovation",
+        "hungarian":"innováció",
+        "pronunciation":"\/ˌɪnəˈveɪʃən\/",
+        "example":"Inspiration comes from many places."
+    },
+    {
+        "english":"inspiration",
+        "hungarian":"inspiráció",
+        "pronunciation":"\/ˌɪnspəˈreɪʃən\/",
+        "example":"Motivation is key to success."
+    },
+    {
+        "english":"motivation",
+        "hungarian":"motiváció",
+        "pronunciation":"\/ˌmoʊtəˈveɪʃən\/",
+        "example":"Setting a goal is important."
+    },
+    {
+        "english":"strategy",
+        "hungarian":"stratégia",
+        "pronunciation":"\/ˈstrætəʤi\/",
+        "example":"The new strategy was effective."
+    },
+    {
+        "english":"approach",
+        "hungarian":"megközelítés",
+        "pronunciation":"\/əˈproʊʧ\/",
+        "example":"This approach worked well."
+    },
+    {
+        "english":"method",
+        "hungarian":"módszer",
+        "pronunciation":"\/ˈmɛθəd\/",
+        "example":"The method is simple."
+    },
+    {
+        "english":"technique",
+        "hungarian":"technika",
+        "pronunciation":"\/tɛkˈniːk\/",
+        "example":"He learned a new technique."
+    },
+    {
+        "english":"procedure",
+        "hungarian":"eljárás",
+        "pronunciation":"\/prəˈsiːʤər\/",
+        "example":"Follow the procedure carefully."
+    },
+    {
+        "english":"process",
+        "hungarian":"folyamat",
+        "pronunciation":"\/ˈprɑːˌsɛs\/",
+        "example":"The process was slow."
+    },
+    {
+        "english":"policy",
+        "hungarian":"irányelv",
+        "pronunciation":"\/ˈpɑːləsi\/",
+        "example":"The company changed its policy."
+    },
+    {
+        "english":"rule",
+        "hungarian":"szabály",
+        "pronunciation":"\/ruːl\/",
+        "example":"There is a new rule in place."
+    },
+    {
+        "english":"guideline",
+        "hungarian":"irányelv",
+        "pronunciation":"\/ˈɡaɪdlaɪn\/",
+        "example":"Follow the guidelines for safety."
+    },
+    {
+        "english":"regulation",
+        "hungarian":"szabályozás",
+        "pronunciation":"\/ˌrɛɡjəˈleɪʃən\/",
+        "example":"They updated the regulations."
+    },
+    {
+        "english":"law",
+        "hungarian":"törvény",
+        "pronunciation":"\/lɔː\/",
+        "example":"The law was passed last year."
+    },
+    {
+        "english":"principle",
+        "hungarian":"elv",
+        "pronunciation":"\/ˈprɪnsəpəl\/",
+        "example":"This principle is important."
+    },
+    {
+        "english":"standard",
+        "hungarian":"szabvány",
+        "pronunciation":"\/ˈstændərd\/",
+        "example":"The standard of living is high."
+    },
+    {
+        "english":"criteria",
+        "hungarian":"kritérium",
+        "pronunciation":"\/kraɪˈtɪəriə\/",
+        "example":"The criteria were strict."
+    },
+    {
+        "english":"requirement",
+        "hungarian":"követelmény",
+        "pronunciation":"\/rɪˈkwaɪrmənt\/",
+        "example":"These are the requirements for the job."
+    },
+    {
+        "english":"boundary",
+        "hungarian":"határvonal",
+        "pronunciation":"\/ˈbaʊndəri\/",
+        "example":"The boundary is marked by a fence."
+    },
+    {
+        "english":"structure",
+        "hungarian":"struktúra",
+        "pronunciation":"\/ˈstrʌkʧər\/",
+        "example":"The structure is stable."
+    },
+    {
+        "english":"system",
+        "hungarian":"rendszer",
+        "pronunciation":"\/ˈsɪstəm\/",
+        "example":"The system is user-friendly."
+    },
+    {
+        "english":"model",
+        "hungarian":"modell",
+        "pronunciation":"\/ˈmɑːdəl\/",
+        "example":"The model is efficient."
+    },
+    {
+        "english":"template",
+        "hungarian":"sablon",
+        "pronunciation":"\/ˈtɛmˌpleɪt\/",
+        "example":"Use the template to create a new file."
+    },
+    {
+        "english":"design",
+        "hungarian":"tervezés",
+        "pronunciation":"\/dɪˈzaɪn\/",
+        "example":"The design is modern."
+    },
+    {
+        "english":"architecture",
+        "hungarian":"építészet",
+        "pronunciation":"\/ˈɑːrkɪˌtɛkʧər\/",
+        "example":"The architecture is impressive."
+    },
+    {
+        "english":"layout",
+        "hungarian":"elrendezés",
+        "pronunciation":"\/ˈleɪˌaʊt\/",
+        "example":"The layout is neat."
+    },
+    {
+        "english":"format",
+        "hungarian":"formátum",
+        "pronunciation":"\/ˈfɔːrˌmæt\/",
+        "example":"Change the format to PDF."
+    },
+    {
+        "english":"configuration",
+        "hungarian":"konfiguráció",
+        "pronunciation":"\/kənˌfɪɡjəˈreɪʃən\/",
+        "example":"The configuration is incorrect."
+    },
+    {
+        "english":"blueprint",
+        "hungarian":"tervrajz",
+        "pronunciation":"\/ˈbluːˌprɪnt\/",
+        "example":"The blueprint outlines the plan."
+    },
+    {
+        "english":"flowchart",
+        "hungarian":"folyamatábra",
+        "pronunciation":"\/ˈfloʊˌʧɑːrt\/",
+        "example":"The flowchart is easy to follow."
+    },
+    {
+        "english":"scheme",
+        "hungarian":"séma",
+        "pronunciation":"\/skiːm\/",
+        "example":"The scheme is complex."
+    },
+    {
+        "english":"pattern",
+        "hungarian":"minta",
+        "pronunciation":"\/ˈpætərn\/",
+        "example":"He followed the pattern exactly."
+    },
+    {
+        "english":"interface",
+        "hungarian":"felület",
+        "pronunciation":"\/ˈɪntərˌfeɪs\/",
+        "example":"The user interface is intuitive."
+    },
+    {
+        "english":"module",
+        "hungarian":"modul",
+        "pronunciation":"\/ˈmɑːˌdjuːl\/",
+        "example":"This module is under maintenance."
+    },
+    {
+        "english":"component",
+        "hungarian":"komponens",
+        "pronunciation":"\/kəmˈpoʊnənt\/",
+        "example":"The component is faulty."
+    },
+    {
+        "english":"element",
+        "hungarian":"elem",
+        "pronunciation":"\/ˈɛlɪmənt\/",
+        "example":"The element was added to the mixture."
+    },
+    {
+        "english":"feature",
+        "hungarian":"jellemző",
+        "pronunciation":"\/ˈfiːʧər\/",
+        "example":"This feature is unique."
+    },
+    {
+        "english":"aspect",
+        "hungarian":"szempont",
+        "pronunciation":"\/ˈæspɛkt\/",
+        "example":"The aspect of safety was considered."
+    },
+    {
+        "english":"dimension",
+        "hungarian":"dimenzió",
+        "pronunciation":"\/dəˈmɛnʃən\/",
+        "example":"The dimension of the room is large."
+    },
+    {
+        "english":"attribute",
+        "hungarian":"attribútum",
+        "pronunciation":"\/əˈtrɪbjuːt\/",
+        "example":"This attribute is positive."
+    },
+    {
+        "english":"property",
+        "hungarian":"tulajdonság",
+        "pronunciation":"\/ˈprɑːpərti\/",
+        "example":"The property was sold."
+    },
+    {
+        "english":"quality",
+        "hungarian":"minőség",
+        "pronunciation":"\/ˈkwɑːləti\/",
+        "example":"The quality of work is high."
+    },
+    {
+        "english":"type",
+        "hungarian":"típus",
+        "pronunciation":"\/taɪp\/",
+        "example":"This type of machine is expensive."
+    },
+    {
+        "english":"category",
+        "hungarian":"kategória",
+        "pronunciation":"\/kəˈtɛɡəri\/",
+        "example":"The category was removed."
+    },
+    {
+        "english":"classification",
+        "hungarian":"osztályozás",
+        "pronunciation":"\/ˌklæsɪfɪˈkeɪʃən\/",
+        "example":"The classification is based on size."
+    },
+    {
+        "english":"grouping",
+        "hungarian":"csoportosítás",
+        "pronunciation":"\/ˈɡruːpɪŋ\/",
+        "example":"Grouping the items was easy."
+    },
+    {
+        "english":"sequence",
+        "hungarian":"sorozat",
+        "pronunciation":"\/ˈsiːkwəns\/",
+        "example":"The sequence of events is important."
+    },
+    {
+        "english":"order",
+        "hungarian":"rend",
+        "pronunciation":"\/ˈɔːrdər\/",
+        "example":"The order should not be changed."
+    },
+    {
+        "english":"arrangement",
+        "hungarian":"elrendezés",
+        "pronunciation":"\/əˈreɪnʤmənt\/",
+        "example":"The arrangement was beautiful."
+    },
+    {
+        "english":"distribution",
+        "hungarian":"elosztás",
+        "pronunciation":"\/ˌdɪstrəˈbjuːʃən\/",
+        "example":"The distribution was unequal."
+    },
+    {
+        "english":"allocation",
+        "hungarian":"kiosztás",
+        "pronunciation":"\/ˌæləˈkeɪʃən\/",
+        "example":"The allocation of resources was efficient."
+    },
+    {
+        "english":"division",
+        "hungarian":"megosztás",
+        "pronunciation":"\/dɪˈvɪʒən\/",
+        "example":"The division is responsible for sales."
+    },
+    {
+        "english":"segment",
+        "hungarian":"szegmens",
+        "pronunciation":"\/ˈsɛɡmənt\/",
+        "example":"The segment was cut."
+    },
+    {
+        "english":"portion",
+        "hungarian":"rész",
+        "pronunciation":"\/ˈpɔːrʃən\/",
+        "example":"A portion of the cake was left."
+    },
+    {
+        "english":"fraction",
+        "hungarian":"tört",
+        "pronunciation":"\/ˈfrækʃən\/",
+        "example":"A fraction of the total was used."
+    },
+    {
+        "english":"part",
+        "hungarian":"rész",
+        "pronunciation":"\/pɑːrt\/",
+        "example":"He took part in the event."
+    },
+    {
+        "english":"whole",
+        "hungarian":"egész",
+        "pronunciation":"\/hoʊl\/",
+        "example":"The whole process took an hour."
+    },
+    {
+        "english":"section",
+        "hungarian":"szakasz",
+        "pronunciation":"\/ˈsɛkʃən\/",
+        "example":"The section was under construction."
+    },
+    {
+        "english":"chapter",
+        "hungarian":"fejezet",
+        "pronunciation":"\/ˈʧæptər\/",
+        "example":"This chapter was interesting."
+    },
+    {
+        "english":"unit",
+        "hungarian":"egység",
+        "pronunciation":"\/ˈjuːnɪt\/",
+        "example":"The unit is faulty."
+    },
+    {
+        "english":"step",
+        "hungarian":"lépés",
+        "pronunciation":"\/stɛp\/",
+        "example":"He took a step forward."
+    },
+    {
+        "english":"phase",
+        "hungarian":"fázis",
+        "pronunciation":"\/feɪz\/",
+        "example":"This phase is critical."
+    },
+    {
+        "english":"level",
+        "hungarian":"szint",
+        "pronunciation":"\/ˈlɛvəl\/",
+        "example":"The level of complexity is high."
+    },
+    {
+        "english":"tier",
+        "hungarian":"szint",
+        "pronunciation":"\/tɪr\/",
+        "example":"The tier is made of wood."
+    },
+    {
+        "english":"layer",
+        "hungarian":"réteg",
+        "pronunciation":"\/ˈleɪər\/",
+        "example":"The layer of paint is dry."
+    },
+    {
+        "english":"stage",
+        "hungarian":"szakasz",
+        "pronunciation":"\/steɪʤ\/",
+        "example":"The stage is set."
+    },
+    {
+        "english":"progression",
+        "hungarian":"haladás",
+        "pronunciation":"\/prəˈɡrɛʃən\/",
+        "example":"The progression was fast."
+    },
+    {
+        "english":"advancement",
+        "hungarian":"előrelépés",
+        "pronunciation":"\/ədˈvænsmənt\/",
+        "example":"He made great advancements."
+    },
+    {
+        "english":"evolution",
+        "hungarian":"evolúció",
+        "pronunciation":"\/ɪˌvɑːlˈuːʃən\/",
+        "example":"Evolution takes time."
+    },
+    {
+        "english":"development",
+        "hungarian":"fejlődés",
+        "pronunciation":"\/dɪˈvɛləpmənt\/",
+        "example":"The development of the project is ongoing."
+    },
+    {
+        "english":"growth",
+        "hungarian":"növekedés",
+        "pronunciation":"\/ɡroʊθ\/",
+        "example":"The growth rate is increasing."
+    },
+    {
+        "english":"expansion",
+        "hungarian":"bővítés",
+        "pronunciation":"\/ɪkˈspænʃən\/",
+        "example":"The expansion plan was approved."
+    },
+    {
+        "english":"increase",
+        "hungarian":"növekedés",
+        "pronunciation":"\/ɪnˈkriːs\/",
+        "example":"There was an increase in sales."
+    },
+    {
+        "english":"boost",
+        "hungarian":"növelés",
+        "pronunciation":"\/buːst\/",
+        "example":"The boost in performance was evident."
+    },
+    {
+        "english":"enhance",
+        "hungarian":"javít",
+        "pronunciation":"\/ɪnˈhæns\/",
+        "example":"This product enhances quality."
+    },
+    {
+        "english":"improve",
+        "hungarian":"fejleszt",
+        "pronunciation":"\/ɪmˈpruːv\/",
+        "example":"She wants to improve her skills."
+    },
+    {
+        "english":"strengthen",
+        "hungarian":"erősít",
+        "pronunciation":"\/ˈstrɛŋθən\/",
+        "example":"They strengthened the bridge."
+    },
+    {
+        "english":"reinforce",
+        "hungarian":"megerősít",
+        "pronunciation":"\/ˈriːɪnˌfɔːrs\/",
+        "example":"The foundation was reinforced."
+    },
+    {
+        "english":"advance",
+        "hungarian":"előmozdít",
+        "pronunciation":"\/ədˈvæns\/",
+        "example":"He advanced in his career."
+    },
+    {
+        "english":"promote",
+        "hungarian":"előléptet",
+        "pronunciation":"\/prəˈmoʊt\/",
+        "example":"The ad promotes the product."
+    },
+    {
+        "english":"raise",
+        "hungarian":"emel",
+        "pronunciation":"\/reɪz\/",
+        "example":"She raised her hand."
+    },
+    {
+        "english":"elevate",
+        "hungarian":"emelkedik",
+        "pronunciation":"\/ɪˈleɪˌveɪt\/",
+        "example":"The platform was elevated."
+    },
+    {
+        "english":"upgrade",
+        "hungarian":"fejleszt",
+        "pronunciation":"\/ˈʌpˌɡreɪd\/",
+        "example":"The system was upgraded."
+    },
+    {
+        "english":"amplify",
+        "hungarian":"felerősít",
+        "pronunciation":"\/ˈæmpləˌfaɪ\/",
+        "example":"The sound was amplified."
+    },
+    {
+        "english":"magnify",
+        "hungarian":"nagyít",
+        "pronunciation":"\/ˈmæɡnəˌfaɪ\/",
+        "example":"The image was magnified."
+    },
+    {
+        "english":"broaden",
+        "hungarian":"szélesít",
+        "pronunciation":"\/ˈbrɔːdən\/",
+        "example":"They broadened their horizons."
+    },
+    {
+        "english":"extend",
+        "hungarian":"kiterjeszt",
+        "pronunciation":"\/ɪkˈstɛnd\/",
+        "example":"The road was extended."
+    },
+    {
+        "english":"expand",
+        "hungarian":"bővít",
+        "pronunciation":"\/ɪkˈspænd\/",
+        "example":"The company expanded globally."
+    },
+    {
+        "english":"spread",
+        "hungarian":"terjeszt",
+        "pronunciation":"\/sprɛd\/",
+        "example":"The disease spread quickly."
+    },
+    {
+        "english":"reach",
+        "hungarian":"elér",
+        "pronunciation":"\/riːʧ\/",
+        "example":"The campaign reached millions."
+    },
+    {
+        "english":"influence",
+        "hungarian":"befolyás",
+        "pronunciation":"\/ˈɪnflʊəns\/",
+        "example":"His influence is growing."
+    },
+    {
+        "english":"impact",
+        "hungarian":"hatás",
+        "pronunciation":"\/ˈɪmpækt\/",
+        "example":"The impact was substantial."
+    },
+    {
+        "english":"affect",
+        "hungarian":"befolyásol",
+        "pronunciation":"\/əˈfɛkt\/",
+        "example":"The new policy affects everyone."
+    },
+    {
+        "english":"effect",
+        "hungarian":"hatás",
+        "pronunciation":"\/ɪˈfɛkt\/",
+        "example":"The effect was immediate."
+    },
+    {
+        "english":"change",
+        "hungarian":"változás",
+        "pronunciation":"\/ʧeɪnʤ\/",
+        "example":"The change was necessary."
+    },
+    {
+        "english":"transformation",
+        "hungarian":"átalakulás",
+        "pronunciation":"\/ˌtrænsfərˈmeɪʃən\/",
+        "example":"The transformation was amazing."
+    },
+    {
+        "english":"transition",
+        "hungarian":"átmenet",
+        "pronunciation":"\/ˌtrænzɪˈʃən\/",
+        "example":"The transition was smooth."
+    },
+    {
+        "english":"alteration",
+        "hungarian":"változtatás",
+        "pronunciation":"\/ˌɔːltəˈreɪʃən\/",
+        "example":"There was an alteration in the design."
+    },
+    {
+        "english":"modification",
+        "hungarian":"módosítás",
+        "pronunciation":"\/ˌmɑːdəfəˈkeɪʃən\/",
+        "example":"The document underwent modification."
+    },
+    {
+        "english":"adjustment",
+        "hungarian":"beállítás",
+        "pronunciation":"\/əˈʤʌstmənt\/",
+        "example":"The settings were adjusted."
+    },
+    {
+        "english":"adaptation",
+        "hungarian":"alkalmazkodás",
+        "pronunciation":"\/əˌdæpˈteɪʃən\/",
+        "example":"The adaptation took time."
+    },
+    {
+        "english":"revision",
+        "hungarian":"felülvizsgálat",
+        "pronunciation":"\/rɪˈvɪʒən\/",
+        "example":"The revision was thorough."
+    },
+    {
+        "english":"vision",
+        "hungarian":"látomás",
+        "pronunciation":"\/ˈvɪʒən\/",
+        "example":"The company's vision is to lead the market."
+    },
+    {
+        "english":"mission",
+        "hungarian":"küldetés",
+        "pronunciation":"\/ˈmɪʃən\/",
+        "example":"Our mission is to provide quality service."
+    },
+    {
+        "english":"purpose",
+        "hungarian":"célja",
+        "pronunciation":"\/ˈpɜːrpəs\/",
+        "example":"The purpose of the meeting is to discuss progress."
+    },
+    {
+        "english":"focus",
+        "hungarian":"fókusz",
+        "pronunciation":"\/ˈfoʊkəs\/",
+        "example":"Focus on your studies."
+    },
+    {
+        "english":"intention",
+        "hungarian":"szándék",
+        "pronunciation":"\/ɪnˈtɛnʃən\/",
+        "example":"He had no intention of hurting anyone."
+    },
+    {
+        "english":"aim",
+        "hungarian":"szándék",
+        "pronunciation":"\/eɪm\/",
+        "example":"My aim is to finish this today."
+    },
+    {
+        "english":"dream",
+        "hungarian":"álom",
+        "pronunciation":"\/driːm\/",
+        "example":"She has big dreams."
+    },
+    {
+        "english":"ambition",
+        "hungarian":"törekvés",
+        "pronunciation":"\/æmˈbɪʃən\/",
+        "example":"His ambition drove him to succeed."
+    },
+    {
+        "english":"aspiration",
+        "hungarian":"vágy",
+        "pronunciation":"\/ˌæspəˈreɪʃən\/",
+        "example":"Her aspiration is to help others."
+    },
+    {
+        "english":"hope",
+        "hungarian":"remény",
+        "pronunciation":"\/hoʊp\/",
+        "example":"We have hope for the future."
+    },
+    {
+        "english":"expectation",
+        "hungarian":"elvárás",
+        "pronunciation":"\/ˌɛkspɛkˈteɪʃən\/",
+        "example":"The expectation was high."
+    },
+    {
+        "english":"desire",
+        "hungarian":"vágyakozás",
+        "pronunciation":"\/dɪˈzaɪər\/",
+        "example":"Her desire was to travel the world."
+    },
+    {
+        "english":"initiative",
+        "hungarian":"kezdeményezés",
+        "pronunciation":"\/ɪˈnɪʃətɪv\/",
+        "example":"This initiative is promising."
+    },
+    {
+        "english":"activity",
+        "hungarian":"tevékenység",
+        "pronunciation":"\/ækˈtɪvɪti\/",
+        "example":"The activity was enjoyable."
+    },
+    {
+        "english":"action",
+        "hungarian":"cselekvés",
+        "pronunciation":"\/ˈækʃən\/",
+        "example":"We must take action."
+    },
+    {
+        "english":"measure",
+        "hungarian":"intézkedés",
+        "pronunciation":"\/ˈmɛʒər\/",
+        "example":"This measure will prevent issues."
+    },
+    {
+        "english":"operation",
+        "hungarian":"művelet",
+        "pronunciation":"\/ˌɑːpəˈreɪʃən\/",
+        "example":"The operation was successful."
+    },
+    {
+        "english":"execution",
+        "hungarian":"végrehajtás",
+        "pronunciation":"\/ˌɛksəˈkjuːʃən\/",
+        "example":"Execution of the plan was flawless."
+    },
+    {
+        "english":"implementation",
+        "hungarian":"megvalósítás",
+        "pronunciation":"\/ˌɪmpləmɛnˈteɪʃən\/",
+        "example":"The implementation went smoothly."
+    },
+    {
+        "english":"delivery",
+        "hungarian":"kiszállítás",
+        "pronunciation":"\/dɪˈlɪvəri\/",
+        "example":"The delivery was delayed."
+    },
+    {
+        "english":"completion",
+        "hungarian":"befejezés",
+        "pronunciation":"\/kəmˈpliːʃən\/",
+        "example":"Completion of the task is required."
+    },
+    {
+        "english":"outcome",
+        "hungarian":"eredmény",
+        "pronunciation":"\/ˈaʊtˌkʌm\/",
+        "example":"The outcome was unexpected."
+    },
+    {
+        "english":"consequence",
+        "hungarian":"következmény",
+        "pronunciation":"\/ˌkɑːnsɪˈkwɛns\/",
+        "example":"The consequence was severe."
+    },
+    {
+        "english":"benefit",
+        "hungarian":"előny",
+        "pronunciation":"\/ˈbɛnəfɪt\/",
+        "example":"This will benefit everyone."
+    },
+    {
+        "english":"advantage",
+        "hungarian":"előny",
+        "pronunciation":"\/ædˈvæntɪʤ\/",
+        "example":"There is an advantage to starting early."
+    },
+    {
+        "english":"gain",
+        "hungarian":"nyereség",
+        "pronunciation":"\/ɡeɪn\/",
+        "example":"She gained new skills."
+    },
+    {
+        "english":"profit",
+        "hungarian":"haszon",
+        "pronunciation":"\/ˈprɑːfɪt\/",
+        "example":"The company made a profit."
+    },
+    {
+        "english":"enhancement",
+        "hungarian":"fokozás",
+        "pronunciation":"\/ɪnˈhænsˌmənt\/",
+        "example":"This enhancement will help."
+    },
+    {
+        "english":"reduction",
+        "hungarian":"csökkenés",
+        "pronunciation":"\/rɪˈdʌkʃən\/",
+        "example":"Reduction in waste is necessary."
+    },
+    {
+        "english":"decrease",
+        "hungarian":"csökkentés",
+        "pronunciation":"\/dɪˈkriːs\/",
+        "example":"There was a decrease in sales."
+    },
+    {
+        "english":"loss",
+        "hungarian":"veszteség",
+        "pronunciation":"\/lɔs\/",
+        "example":"The company faced a loss."
+    },
+    {
+        "english":"collapse",
+        "hungarian":"összeomlás",
+        "pronunciation":"\/kəˈlæps\/",
+        "example":"The building faced collapse."
+    },
+    {
+        "english":"stability",
+        "hungarian":"stabilitás",
+        "pronunciation":"\/stəˈbɪlɪti\/",
+        "example":"Stability is important in this role."
+    },
+    {
+        "english":"instability",
+        "hungarian":"instabilitás",
+        "pronunciation":"\/ˌɪnstəˈbɪlɪti\/",
+        "example":"Instability can cause problems."
+    },
+    {
+        "english":"balance",
+        "hungarian":"egyensúly",
+        "pronunciation":"\/ˈbæləns\/",
+        "example":"The balance is delicate."
+    },
+    {
+        "english":"imbalance",
+        "hungarian":"kiegyensúlyozatlanság",
+        "pronunciation":"\/ˌɪmbæˈlæns\/",
+        "example":"The imbalance needs correction."
+    },
+    {
+        "english":"risk",
+        "hungarian":"kockázat",
+        "pronunciation":"\/rɪsk\/",
+        "example":"There is a risk involved."
+    },
+    {
+        "english":"opportunity",
+        "hungarian":"lehetőség",
+        "pronunciation":"\/əˌpɔːrtʃəˈnuːɪti\/",
+        "example":"This opportunity should not be missed."
+    },
+    {
+        "english":"challenge",
+        "hungarian":"kihívás",
+        "pronunciation":"\/ˈʧælɪnʤ\/",
+        "example":"The challenge was difficult."
+    },
+    {
+        "english":"threat",
+        "hungarian":"fenyegetés",
+        "pronunciation":"\/θrɛt\/",
+        "example":"This is a potential threat."
+    },
+    {
+        "english":"problem",
+        "hungarian":"probléma",
+        "pronunciation":"\/ˈprɒbləm\/",
+        "example":"We have a problem to solve."
+    },
+    {
+        "english":"difficulty",
+        "hungarian":"nehézség",
+        "pronunciation":"\/ˈdɪfɪkəlti\/",
+        "example":"The difficulty was unexpected."
+    },
+    {
+        "english":"obstacle",
+        "hungarian":"akadály",
+        "pronunciation":"\/ˈɒbstəkəl\/",
+        "example":"An obstacle was in our way."
+    },
+    {
+        "english":"barrier",
+        "hungarian":"gát",
+        "pronunciation":"\/ˈbæriər\/",
+        "example":"The barrier was overcome."
+    },
+    {
+        "english":"hurdle",
+        "hungarian":"akadály",
+        "pronunciation":"\/ˈhɜːrdəl\/",
+        "example":"The hurdle was cleared."
+    },
+    {
+        "english":"fix",
+        "hungarian":"javítás",
+        "pronunciation":"\/fɪks\/",
+        "example":"He fixed the machine."
+    },
+    {
+        "english":"shift",
+        "hungarian":"váltás",
+        "pronunciation":"\/ʃɪft\/",
+        "example":"There was a shift in policy."
+    },
+    {
+        "english":"paradigm",
+        "hungarian":"paradigma",
+        "pronunciation":"\/ˈpærəˌdaɪm\/",
+        "example":"The paradigm shift was significant."
+    },
+    {
+        "english":"view",
+        "hungarian":"nézet",
+        "pronunciation":"\/vjuː\/",
+        "example":"His view is different."
+    },
+    {
+        "english":"belief",
+        "hungarian":"hit",
+        "pronunciation":"\/bɪˈliːf\/",
+        "example":"Their belief was strong."
+    },
+    {
+        "english":"assumption",
+        "hungarian":"feltételezés",
+        "pronunciation":"\/əˈsʌmpʃən\/",
+        "example":"It is an assumption, not a fact."
+    },
+    {
+        "english":"description",
+        "hungarian":"leírás",
+        "pronunciation":"\/dɪˈskrɪpʃən\/",
+        "example":"The description was detailed."
+    },
+    {
+        "english":"clarification",
+        "hungarian":"tisztázás",
+        "pronunciation":"\/ˌklærəfəˈkeɪʃən\/",
+        "example":"The clarification was needed."
+    },
+    {
+        "english":"elaboration",
+        "hungarian":"kifejtés",
+        "pronunciation":"\/ɪˌlæbəˈreɪʃən\/",
+        "example":"He provided an elaboration."
+    },
+    {
+        "english":"statement",
+        "hungarian":"kijelentés",
+        "pronunciation":"\/ˈsteɪtmənt\/",
+        "example":"The statement was bold."
+    },
+    {
+        "english":"declaration",
+        "hungarian":"nyilatkozat",
+        "pronunciation":"\/ˌdɛkləˈreɪʃən\/",
+        "example":"A declaration was made."
+    },
+    {
+        "english":"announcement",
+        "hungarian":"bejelentés",
+        "pronunciation":"\/əˈnaʊnsmənt\/",
+        "example":"The announcement was surprising."
+    },
+    {
+        "english":"revelation",
+        "hungarian":"kinyilatkoztatás",
+        "pronunciation":"\/ˌrɛvəˈleɪʃən\/",
+        "example":"The revelation changed everything."
+    },
+    {
+        "english":"determination",
+        "hungarian":"elhatározás",
+        "pronunciation":"\/dɪˌtɜrmɪˈneɪʃən\/",
+        "example":"His determination helped him succeed."
+    },
+    {
+        "english":"perseverance",
+        "hungarian":"kitartás",
+        "pronunciation":"\/ˌpɜrsəˈvɪrəns\/",
+        "example":"Perseverance is important in difficult times."
+    },
+    {
+        "english":"resilience",
+        "hungarian":"rugalmasság",
+        "pronunciation":"\/rɪˈzɪliəns\/",
+        "example":"Resilience helped them bounce back."
+    },
+    {
+        "english":"tenacity",
+        "hungarian":"kitartás",
+        "pronunciation":"\/təˈnæsəti\/",
+        "example":"Her tenacity is admirable."
+    },
+    {
+        "english":"courage",
+        "hungarian":"bátorság",
+        "pronunciation":"\/ˈkɜrɪʤ\/",
+        "example":"It takes courage to speak the truth."
+    },
+    {
+        "english":"bravery",
+        "hungarian":"hősiesség",
+        "pronunciation":"\/ˈbreɪvəri\/",
+        "example":"He showed bravery during the crisis."
+    },
+    {
+        "english":"confidence",
+        "hungarian":"önbizalom",
+        "pronunciation":"\/ˈkɑːnfɪdəns\/",
+        "example":"Confidence is attractive."
+    },
+    {
+        "english":"boldness",
+        "hungarian":"merészség",
+        "pronunciation":"\/ˈboʊldnəs\/",
+        "example":"She acted with boldness."
+    },
+    {
+        "english":"leadership",
+        "hungarian":"vezetés",
+        "pronunciation":"\/ˈliːdərˌʃɪp\/",
+        "example":"Leadership is about serving others."
+    },
+    {
+        "english":"guidance",
+        "hungarian":"irányítás",
+        "pronunciation":"\/ˈɡaɪdəns\/",
+        "example":"The coach provided guidance."
+    },
+    {
+        "english":"mentorship",
+        "hungarian":"mentorálás",
+        "pronunciation":"\/ˈmɛntɔːrˌʃɪp\/",
+        "example":"Mentorship can change lives."
+    },
+    {
+        "english":"empowerment",
+        "hungarian":"felhatalmazás",
+        "pronunciation":"\/ɪmˈpaʊərmənt\/",
+        "example":"The program focuses on empowerment."
+    },
+    {
+        "english":"unity",
+        "hungarian":"egység",
+        "pronunciation":"\/ˈjuːnɪti\/",
+        "example":"Unity brings strength."
+    },
+    {
+        "english":"cooperation",
+        "hungarian":"együttműködés",
+        "pronunciation":"\/koʊˌɑːpəˈreɪʃən\/",
+        "example":"Cooperation between countries is crucial."
+    },
+    {
+        "english":"coordination",
+        "hungarian":"koordináció",
+        "pronunciation":"\/koʊˌɔːrdəˈneɪʃən\/",
+        "example":"Coordination between departments is required."
+    },
+    {
+        "english":"synchronization",
+        "hungarian":"szinkronizáció",
+        "pronunciation":"\/ˌsɪŋkrənaɪˈzeɪʃən\/",
+        "example":"Synchronization is needed for the system."
+    },
+    {
+        "english":"efficiency",
+        "hungarian":"hatékonyság",
+        "pronunciation":"\/ɪˈfɪʃənsi\/",
+        "example":"Efficiency saves time."
+    },
+    {
+        "english":"productivity",
+        "hungarian":"termelékenység",
+        "pronunciation":"\/ˌproʊdəkˈtɪvɪti\/",
+        "example":"Productivity increased this quarter."
+    },
+    {
+        "english":"effectiveness",
+        "hungarian":"hatékonyság",
+        "pronunciation":"\/ɪˈfɛktɪvnəs\/",
+        "example":"Effectiveness is measured by results."
+    },
+    {
+        "english":"output",
+        "hungarian":"kimenet",
+        "pronunciation":"\/ˈaʊtˌpʊt\/",
+        "example":"Output has been consistent."
+    },
+    {
+        "english":"milestone",
+        "hungarian":"mérföldkő",
+        "pronunciation":"\/ˈmaɪlstoʊn\/",
+        "example":"Reaching a milestone is satisfying."
+    },
+    {
+        "english":"benchmark",
+        "hungarian":"referenciaérték",
+        "pronunciation":"\/ˈbɛnʧˌmɑːrk\/",
+        "example":"The benchmark for success is high."
+    },
+    {
+        "english":"excellence",
+        "hungarian":"kiválóság",
+        "pronunciation":"\/ɪkˈsɛlənˌs\/",
+        "example":"Excellence is our goal."
+    },
+    {
+        "english":"superiority",
+        "hungarian":"felsőbbrendűség",
+        "pronunciation":"\/ˌsuːpərɪˈɔrɪti\/",
+        "example":"Their superiority was evident."
+    },
+    {
+        "english":"triumph",
+        "hungarian":"diadal",
+        "pronunciation":"\/ˈtraɪʌmf\/",
+        "example":"The triumph was celebrated."
+    },
+    {
+        "english":"celebration",
+        "hungarian":"ünneplés",
+        "pronunciation":"\/ˌsɛləˈbreɪʃən\/",
+        "example":"We held a celebration for the team."
+    },
+    {
+        "english":"recognition",
+        "hungarian":"elismerés",
+        "pronunciation":"\/ˌrɛkəɡˈnɪʃən\/",
+        "example":"Recognition is important for motivation."
+    },
+    {
+        "english":"award",
+        "hungarian":"díj",
+        "pronunciation":"\/əˈwɔːrd\/",
+        "example":"She received an award for her work."
+    },
+    {
+        "english":"honor",
+        "hungarian":"tisztelet",
+        "pronunciation":"\/ˈɑːnər\/",
+        "example":"Honor is earned through actions."
+    },
+    {
+        "english":"prestige",
+        "hungarian":"tekintély",
+        "pronunciation":"\/prɛˈstiːʤ\/",
+        "example":"The artist gained prestige."
+    },
+    {
+        "english":"reputation",
+        "hungarian":"hírnév",
+        "pronunciation":"\/ˌrɛpjəˈteɪʃən\/",
+        "example":"The company's reputation grew."
+    },
+    {
+        "english":"status",
+        "hungarian":"státusz",
+        "pronunciation":"\/ˈsteɪtəs\/",
+        "example":"Status comes with responsibility."
+    },
+    {
+        "english":"fame",
+        "hungarian":"hírnév",
+        "pronunciation":"\/feɪm\/",
+        "example":"Fame is not always positive."
+    },
+    {
+        "english":"popularity",
+        "hungarian":"népszerűség",
+        "pronunciation":"\/ˌpɑpjəˈlærəti\/",
+        "example":"Popularity can be fleeting."
+    },
+    {
+        "english":"admiration",
+        "hungarian":"csodálat",
+        "pronunciation":"\/ˌædməˈreɪʃən\/",
+        "example":"She earned admiration from peers."
+    },
+    {
+        "english":"respect",
+        "hungarian":"tisztelet",
+        "pronunciation":"\/rɪˈspɛkt\/",
+        "example":"Respect must be mutual."
+    },
+    {
+        "english":"appreciation",
+        "hungarian":"megbecsülés",
+        "pronunciation":"\/əˌpriːʃiˈeɪʃən\/",
+        "example":"Appreciation goes a long way."
+    },
+    {
+        "english":"gratitude",
+        "hungarian":"hála",
+        "pronunciation":"\/ˈɡrætɪˌtud\/",
+        "example":"Gratitude is a virtue."
+    },
+    {
+        "english":"acknowledgment",
+        "hungarian":"elismerés",
+        "pronunciation":"\/əkˈnɒlɪʤmənt\/",
+        "example":"Acknowledgment of work is crucial."
+    },
+    {
+        "english":"compliment",
+        "hungarian":"bók",
+        "pronunciation":"\/ˈkɑːmpləmənt\/",
+        "example":"He gave her a compliment."
+    },
+    {
+        "english":"praise",
+        "hungarian":"dicséret",
+        "pronunciation":"\/preɪz\/",
+        "example":"She deserves praise for her efforts."
+    },
+    {
+        "english":"commendation",
+        "hungarian":"dicséret",
+        "pronunciation":"\/kəˌmɛndəˈneɪʃən\/",
+        "example":"Commendation was given for the achievement."
+    },
+    {
+        "english":"accolade",
+        "hungarian":"kitüntetés",
+        "pronunciation":"\/ˈækəˌleɪd\/",
+        "example":"He received an accolade for his work."
+    },
+    {
+        "english":"tribute",
+        "hungarian":"tisztelgés",
+        "pronunciation":"\/ˈtrɪbjuːt\/",
+        "example":"A tribute was paid to the fallen heroes."
+    },
+    {
+        "english":"homage",
+        "hungarian":"hódolat",
+        "pronunciation":"\/ˈhɔːmɪʤ\/",
+        "example":"Homage was rendered to the leader."
+    },
+    {
+        "english":"loyalty",
+        "hungarian":"hűség",
+        "pronunciation":"\/ˈlɔɪəlti\/",
+        "example":"Loyalty is invaluable in relationships."
+    },
+    {
+        "english":"dedication",
+        "hungarian":"elhivatottság",
+        "pronunciation":"\/ˌdɛdəˈkeɪʃən\/",
+        "example":"Her dedication is inspiring."
+    },
+    {
+        "english":"devotion",
+        "hungarian":"odaadás",
+        "pronunciation":"\/dəˈvoʊʃən\/",
+        "example":"Devotion to family is seen in her actions."
+    },
+    {
+        "english":"faithfulness",
+        "hungarian":"hűség",
+        "pronunciation":"\/ˈfeɪθfəlnəs\/",
+        "example":"Faithfulness builds trust."
+    },
+    {
+        "english":"allegiance",
+        "hungarian":"hűség",
+        "pronunciation":"\/əˈliːʤəns\/",
+        "example":"The allegiance of the people was evident."
+    },
+    {
+        "english":"trust",
+        "hungarian":"bizalom",
+        "pronunciation":"\/trʌst\/",
+        "example":"Trust is the foundation of any relationship."
+    },
+    {
+        "english":"reliability",
+        "hungarian":"megbízhatóság",
+        "pronunciation":"\/rɪˌlaɪəˈbɪləti\/",
+        "example":"Reliability is key for success."
+    },
+    {
+        "english":"dependability",
+        "hungarian":"megbízhatóság",
+        "pronunciation":"\/dɪˌpɛndəˈbɪləti\/",
+        "example":"Dependability makes a strong team."
+    },
+    {
+        "english":"integrity",
+        "hungarian":"tisztesség",
+        "pronunciation":"\/ɪnˈtɛɡrɪti\/",
+        "example":"Integrity is doing the right thing even when no one is watching."
+    },
+    {
+        "english":"honesty",
+        "hungarian":"őszinteség",
+        "pronunciation":"\/ˈɑːnəsti\/",
+        "example":"Honesty builds lasting relationships."
+    },
+    {
+        "english":"truth",
+        "hungarian":"igazság",
+        "pronunciation":"\/truːθ\/",
+        "example":"Truth is powerful."
+    },
+    {
+        "english":"justice",
+        "hungarian":"igazságosság",
+        "pronunciation":"\/ˈʤʌstɪs\/",
+        "example":"Justice was served."
+    },
+    {
+        "english":"fairness",
+        "hungarian":"méltányosság",
+        "pronunciation":"\/ˈfɛrnəs\/",
+        "example":"Fairness is a core value."
+    },
+    {
+        "english":"equality",
+        "hungarian":"egyenlőség",
+        "pronunciation":"\/ɪˈkwɒləti\/",
+        "example":"Equality should be universal."
+    },
+    {
+        "english":"freedom",
+        "hungarian":"szabadság",
+        "pronunciation":"\/ˈfriːdəm\/",
+        "example":"Freedom is a basic human right."
+    },
+    {
+        "english":"liberty",
+        "hungarian":"szabadság",
+        "pronunciation":"\/ˈlɪbərti\/",
+        "example":"Liberty is cherished."
+    },
+    {
+        "english":"rights",
+        "hungarian":"jogok",
+        "pronunciation":"\/raɪts\/",
+        "example":"Rights must be protected."
+    },
+    {
+        "english":"responsibility",
+        "hungarian":"felelősség",
+        "pronunciation":"\/rɪˌspɑnsəˈbɪləti\/",
+        "example":"Responsibility comes with power."
+    },
+    {
+        "english":"duty",
+        "hungarian":"kötelesség",
+        "pronunciation":"\/ˈdjuːti\/",
+        "example":"Duty calls at all hours."
+    },
+    {
+        "english":"obligation",
+        "hungarian":"kötelezettség",
+        "pronunciation":"\/ˌɑːblɪˈɡeɪʃən\/",
+        "example":"Obligation cannot be ignored."
+    },
+    {
+        "english":"accountability",
+        "hungarian":"elszámoltathatóság",
+        "pronunciation":"\/əˌkaʊntəˈbɪləti\/",
+        "example":"Accountability matters in leadership."
+    },
+    {
+        "english":"transparency",
+        "hungarian":"átláthatóság",
+        "pronunciation":"\/ˌtrænsˈpærənsi\/",
+        "example":"Transparency builds trust."
+    },
+    {
+        "english":"openness",
+        "hungarian":"nyitottság",
+        "pronunciation":"\/ˈoʊpnəs\/",
+        "example":"Openness helps in resolving conflicts."
+    },
+    {
+        "english":"clarity",
+        "hungarian":"egyértelműség",
+        "pronunciation":"\/ˈklærəti\/",
+        "example":"Clarity in instructions is necessary."
+    },
+    {
+        "english":"understanding",
+        "hungarian":"megértés",
+        "pronunciation":"\/ˌʌndərˈstændɪŋ\/",
+        "example":"Understanding the situation takes time."
+    },
+    {
+        "english":"awareness",
+        "hungarian":"tudatosság",
+        "pronunciation":"\/əˈwɛrnəs\/",
+        "example":"Awareness of the environment is crucial."
+    },
+    {
+        "english":"insight",
+        "hungarian":"belátás",
+        "pronunciation":"\/ˈɪnˌsaɪt\/",
+        "example":"Insight into the problem was helpful."
+    },
+    {
+        "english":"intelligence",
+        "hungarian":"intelligencia",
+        "pronunciation":"\/ɪnˈtɛlɪʤəns\/",
+        "example":"Intelligence is not just about knowledge."
+    },
+    {
+        "english":"logic",
+        "hungarian":"logika",
+        "pronunciation":"\/ˈlɑːʤɪk\/",
+        "example":"Logic is used in problem-solving."
+    },
+    {
+        "english":"reason",
+        "hungarian":"értelem",
+        "pronunciation":"\/ˈriːzən\/",
+        "example":"Reason is a tool for making decisions."
+    },
+    {
+        "english":"synthesis",
+        "hungarian":"szintézis",
+        "pronunciation":"\/ˈsɪnθəsɪs\/",
+        "example":"Synthesis of ideas creates innovation."
+    },
+    {
+        "english":"judgment",
+        "hungarian":"ítélet",
+        "pronunciation":"\/ˈʤʌʤmənt\/",
+        "example":"Judgment must be fair."
+    },
+    {
+        "english":"solution",
+        "hungarian":"megoldás",
+        "pronunciation":"\/səˈluːʃən\/",
+        "example":"A solution was found."
+    },
+    {
+        "english":"planning",
+        "hungarian":"tervezés",
+        "pronunciation":"\/ˈplænɪŋ\/",
+        "example":"Planning is essential for success."
+    },
+    {
+        "english":"tactic",
+        "hungarian":"taktika",
+        "pronunciation":"\/ˈtæktɪk\/",
+        "example":"A tactic was devised."
+    },
+    {
+        "english":"maneuver",
+        "hungarian":"manőver",
+        "pronunciation":"\/məˈnuːvər\/",
+        "example":"He made a clever maneuver."
+    },
+    {
+        "english":"resource",
+        "hungarian":"erőforrás",
+        "pronunciation":"\/ˈrisoʊrs\/",
+        "example":"Resources are limited."
+    },
+    {
+        "english":"utilization",
+        "hungarian":"kihasználás",
+        "pronunciation":"\/ˌjuːtələˈzeɪʃən\/",
+        "example":"Utilization of time is important."
+    },
+    {
+        "english":"conservation",
+        "hungarian":"megőrzés",
+        "pronunciation":"\/ˌkɑːnsərˈveɪʃən\/",
+        "example":"Conservation of energy is needed."
+    },
+    {
+        "english":"preservation",
+        "hungarian":"megőrzés",
+        "pronunciation":"\/ˌprɛzərˈveɪʃən\/",
+        "example":"Preservation of culture is vital."
+    },
+    {
+        "english":"sustainability",
+        "hungarian":"fenntarthatóság",
+        "pronunciation":"\/səˌsteɪnəˈbɪləti\/",
+        "example":"Sustainability is the future."
+    },
+    {
+        "english":"visionary",
+        "hungarian":"látomásos",
+        "pronunciation":"\/ˈvɪʒəˌnɛri\/",
+        "example":"She is a visionary leader."
+    },
+    {
+        "english":"dreamer",
+        "hungarian":"álmodozó",
+        "pronunciation":"\/ˈdriːmər\/",
+        "example":"He is a dreamer who aims high."
+    },
+    {
+        "english":"achiever",
+        "hungarian":"teljesítő",
+        "pronunciation":"\/əˈʧiːvər\/",
+        "example":"She is an achiever in her field."
+    },
+    {
+        "english":"believer",
+        "hungarian":"hívő",
+        "pronunciation":"\/bɪˈliːvər\/",
+        "example":"He is a believer in positive change."
+    },
+    {
+        "english":"optimist",
+        "hungarian":"optimista",
+        "pronunciation":"\/ˈɑːptəmɪst\/",
+        "example":"An optimist sees opportunities."
+    },
+    {
+        "english":"pessimist",
+        "hungarian":"pesszimista",
+        "pronunciation":"\/ˈpɛsəmɪst\/",
+        "example":"A pessimist often expects the worst."
+    },
+    {
+        "english":"realist",
+        "hungarian":"realista",
+        "pronunciation":"\/ˈriːəlɪst\/",
+        "example":"The realist accepts life as it is."
+    },
+    {
+        "english":"idealist",
+        "hungarian":"idealista",
+        "pronunciation":"\/ˌaɪdiəˈlɪst\/",
+        "example":"An idealist dreams of a perfect world."
+    },
+    {
+        "english":"thinker",
+        "hungarian":"gondolkodó",
+        "pronunciation":"\/ˈθɪŋkər\/",
+        "example":"A thinker contemplates ideas."
+    },
+    {
+        "english":"doer",
+        "hungarian":"cselekvő",
+        "pronunciation":"\/ˈduːər\/",
+        "example":"A doer takes action."
+    },
+    {
+        "english":"organizer",
+        "hungarian":"szervező",
+        "pronunciation":"\/ˈɔːrɡəˌnaɪzər\/",
+        "example":"She is an excellent organizer."
+    },
+    {
+        "english":"strategist",
+        "hungarian":"stratéga",
+        "pronunciation":"\/ˈstrætəʤɪst\/",
+        "example":"The strategist designed the campaign."
+    },
+    {
+        "english":"innovator",
+        "hungarian":"újító",
+        "pronunciation":"\/ˈɪnəˌveɪtər\/",
+        "example":"He is an innovator in technology."
+    },
+    {
+        "english":"creator",
+        "hungarian":"alkotó",
+        "pronunciation":"\/ˈkriːeɪtər\/",
+        "example":"The creator of the artwork was talented."
+    },
+    {
+        "english":"inventor",
+        "hungarian":"feltaláló",
+        "pronunciation":"\/ɪnˈvɛntər\/",
+        "example":"She is the inventor of the gadget."
+    },
+    {
+        "english":"pioneer",
+        "hungarian":"úttörő",
+        "pronunciation":"\/ˌpaɪəˈnɪr\/",
+        "example":"The pioneer led the way."
+    },
+    {
+        "english":"explorer",
+        "hungarian":"felfedező",
+        "pronunciation":"\/ɪkˈsplɔːrər\/",
+        "example":"He was an explorer of new lands."
+    },
+    {
+        "english":"adventurer",
+        "hungarian":"kalandor",
+        "pronunciation":"\/ədˈvɛnʧərər\/",
+        "example":"The adventurer took many risks."
+    },
+    {
+        "english":"risk-taker",
+        "hungarian":"kockázatvállaló",
+        "pronunciation":"\/ˈrɪskˌteɪkər\/",
+        "example":"She is a natural risk-taker."
+    },
+    {
+        "english":"leader",
+        "hungarian":"vezető",
+        "pronunciation":"\/ˈliːdər\/",
+        "example":"The leader inspired the team."
+    },
+    {
+        "english":"follower",
+        "hungarian":"követő",
+        "pronunciation":"\/ˈfɑːloʊər\/",
+        "example":"He is a follower of trends."
+    },
+    {
+        "english":"mentor",
+        "hungarian":"mentor",
+        "pronunciation":"\/ˈmɛntɔːr\/",
+        "example":"A mentor provides guidance."
+    },
+    {
+        "english":"coach",
+        "hungarian":"edző",
+        "pronunciation":"\/koʊʧ\/",
+        "example":"The coach motivated the athletes."
+    },
+    {
+        "english":"trainer",
+        "hungarian":"tréner",
+        "pronunciation":"\/ˈtreɪnər\/",
+        "example":"The trainer helped improve skills."
+    },
+    {
+        "english":"guide",
+        "hungarian":"útmutató",
+        "pronunciation":"\/ɡaɪd\/",
+        "example":"The guide led us on the hike."
+    },
+    {
+        "english":"advisor",
+        "hungarian":"tanácsadó",
+        "pronunciation":"\/ədˈvaɪzər\/",
+        "example":"The advisor gave sound advice."
+    },
+    {
+        "english":"consultant",
+        "hungarian":"konzulens",
+        "pronunciation":"\/kənˈsʌltənt\/",
+        "example":"She worked as a consultant."
+    },
+    {
+        "english":"specialist",
+        "hungarian":"szakember",
+        "pronunciation":"\/ˈspɛʃəlɪst\/",
+        "example":"He is a specialist in his area."
+    },
+    {
+        "english":"expert",
+        "hungarian":"szakértő",
+        "pronunciation":"\/ˈɛkspərt\/",
+        "example":"The expert provided insights."
+    },
+    {
+        "english":"professional",
+        "hungarian":"szakmai",
+        "pronunciation":"\/prəˈfɛʃənəl\/",
+        "example":"She is a true professional."
+    },
+    {
+        "english":"amateur",
+        "hungarian":"amatőr",
+        "pronunciation":"\/ˈæməˌtɜːr\/",
+        "example":"He is an amateur photographer."
+    },
+    {
+        "english":"enthusiast",
+        "hungarian":"rajongó",
+        "pronunciation":"\/ɪnˈθuːziæst\/",
+        "example":"She is an enthusiast of old books."
+    },
+    {
+        "english":"advocate",
+        "hungarian":"szószóló",
+        "pronunciation":"\/ˈædvəˌkeɪt\/",
+        "example":"He is an advocate for the environment."
+    },
+    {
+        "english":"supporter",
+        "hungarian":"támogató",
+        "pronunciation":"\/səˈpɔrtər\/",
+        "example":"The supporter cheered loudly."
+    },
+    {
+        "english":"ally",
+        "hungarian":"szövetséges",
+        "pronunciation":"\/ˈælaɪ\/",
+        "example":"The ally stood by our side."
+    },
+    {
+        "english":"partner",
+        "hungarian":"partner",
+        "pronunciation":"\/ˈpɑːrtnər\/",
+        "example":"They became business partners."
+    },
+    {
+        "english":"collaborator",
+        "hungarian":"együttműködő",
+        "pronunciation":"\/kəˈlæbəˌreɪtər\/",
+        "example":"The collaborator contributed greatly."
+    },
+    {
+        "english":"teammate",
+        "hungarian":"csapattárs",
+        "pronunciation":"\/ˈtiːmˌmeɪt\/",
+        "example":"The teammate helped score points."
+    },
+    {
+        "english":"peer",
+        "hungarian":"társ",
+        "pronunciation":"\/pɪr\/",
+        "example":"My peer works in the same department."
+    },
+    {
+        "english":"colleague",
+        "hungarian":"kolléga",
+        "pronunciation":"\/kəˈliːɡ\/",
+        "example":"The colleague was helpful."
+    },
+    {
+        "english":"associate",
+        "hungarian":"munkatárs",
+        "pronunciation":"\/əˈsoʊsiət\/",
+        "example":"The associate managed the project."
+    },
+    {
+        "english":"companion",
+        "hungarian":"társ",
+        "pronunciation":"\/kəmˈpænˌjən\/",
+        "example":"A companion on the journey is valuable."
+    },
+    {
+        "english":"acquaintance",
+        "hungarian":"ismerős",
+        "pronunciation":"\/əˈkweɪntəns\/",
+        "example":"An acquaintance greeted me warmly."
+    },
+    {
+        "english":"confidant",
+        "hungarian":"bizalmas",
+        "pronunciation":"\/ˈkɒnfɪˌdænt\/",
+        "example":"My confidant knows my secrets."
+    },
+    {
+        "english":"rival",
+        "hungarian":"rivális",
+        "pronunciation":"\/ˈraɪvəl\/",
+        "example":"He is my rival in business."
+    },
+    {
+        "english":"competitor",
+        "hungarian":"versenytárs",
+        "pronunciation":"\/kəmˈpɛtətər\/",
+        "example":"The competitor entered the contest."
+    },
+    {
+        "english":"opponent",
+        "hungarian":"ellenfél",
+        "pronunciation":"\/əˈpoʊnənt\/",
+        "example":"Her opponent played well."
+    },
+    {
+        "english":"challenger",
+        "hungarian":"kihívó",
+        "pronunciation":"\/ˈʧælənʤər\/",
+        "example":"The challenger showed great skill."
+    },
+    {
+        "english":"contender",
+        "hungarian":"versenyző",
+        "pronunciation":"\/kənˈtɛndər\/",
+        "example":"The contender gave his best."
+    },
+    {
+        "english":"champion",
+        "hungarian":"bajnok",
+        "pronunciation":"\/ˈʧæmpiən\/",
+        "example":"The champion was celebrated."
+    },
+    {
+        "english":"winner",
+        "hungarian":"győztes",
+        "pronunciation":"\/ˈwɪnər\/",
+        "example":"The winner received a trophy."
+    },
+    {
+        "english":"loser",
+        "hungarian":"vesztes",
+        "pronunciation":"\/ˈluːzər\/",
+        "example":"He lost but learned a lot."
+    },
+    {
+        "english":"victim",
+        "hungarian":"áldozat",
+        "pronunciation":"\/ˈvɪktɪm\/",
+        "example":"The victim was given support."
+    },
+    {
+        "english":"survivor",
+        "hungarian":"túlélő",
+        "pronunciation":"\/sərˈvaɪvər\/",
+        "example":"The survivor told his story."
+    },
+    {
+        "english":"fighter",
+        "hungarian":"harcos",
+        "pronunciation":"\/ˈfaɪtər\/",
+        "example":"The fighter never gave up."
+    },
+    {
+        "english":"warrior",
+        "hungarian":"harcos",
+        "pronunciation":"\/ˈwɔːriər\/",
+        "example":"The warrior defended the land."
+    },
+    {
+        "english":"hero",
+        "hungarian":"hős",
+        "pronunciation":"\/ˈhɪroʊ\/",
+        "example":"He became a hero."
+    },
+    {
+        "english":"villain",
+        "hungarian":"gonosztevő",
+        "pronunciation":"\/ˈvɪlən\/",
+        "example":"The villain plotted evil deeds."
+    },
+    {
+        "english":"antagonist",
+        "hungarian":"ellenség",
+        "pronunciation":"\/ænˈtæɡənɪst\/",
+        "example":"The antagonist challenged the hero."
+    },
+    {
+        "english":"protagonist",
+        "hungarian":"főszereplő",
+        "pronunciation":"\/prəˈtæɡənɪst\/",
+        "example":"The protagonist faced many trials."
+    },
+    {
+        "english":"character",
+        "hungarian":"karakter",
+        "pronunciation":"\/ˈkærɪktər\/",
+        "example":"The character was well developed."
+    },
+    {
+        "english":"role",
+        "hungarian":"szerep",
+        "pronunciation":"\/roʊl\/",
+        "example":"He played an important role."
+    },
+    {
+        "english":"persona",
+        "hungarian":"személyiség",
+        "pronunciation":"\/pərˈsoʊnə\/",
+        "example":"She adopted a new persona."
+    },
+    {
+        "english":"identity",
+        "hungarian":"identitás",
+        "pronunciation":"\/aɪˈdɛntəti\/",
+        "example":"Her identity was a mystery."
+    },
+    {
+        "english":"person",
+        "hungarian":"személy",
+        "pronunciation":"\/ˈpɜːrsən\/",
+        "example":"A famous person attended the event."
+    },
+    {
+        "english":"figure",
+        "hungarian":"alak",
+        "pronunciation":"\/ˈfɪɡjər\/",
+        "example":"The figure was recognized by many."
+    },
+    {
+        "english":"personality",
+        "hungarian":"személyiség",
+        "pronunciation":"\/ˌpɜːrsəˈnælɪti\/",
+        "example":"Her personality is magnetic."
+    },
+    {
+        "english":"celebrity",
+        "hungarian":"híresség",
+        "pronunciation":"\/səˈlɛbrɪti\/",
+        "example":"He became a celebrity."
+    },
+    {
+        "english":"notable",
+        "hungarian":"neves",
+        "pronunciation":"\/ˈnoʊtəbl\/",
+        "example":"The notable scientist made a discovery."
+    },
+    {
+        "english":"famous",
+        "hungarian":"híres",
+        "pronunciation":"\/ˈfeɪməs\/",
+        "example":"She is well-known in the community."
+    },
+    {
+        "english":"well-known",
+        "hungarian":"közismert",
+        "pronunciation":"\/ˌwɛl-ˈnoʊn\/",
+        "example":"The story of the obscure author is fascinating."
+    },
+    {
+        "english":"obscure",
+        "hungarian":"homályos",
+        "pronunciation":"\/əbˈskjʊr\/",
+        "example":"He remained unknown for years."
+    },
+    {
+        "english":"unknown",
+        "hungarian":"ismeretlen",
+        "pronunciation":"\/ʌnˈnoʊn\/",
+        "example":"The artist was anonymous."
+    },
+    {
+        "english":"anonymous",
+        "hungarian":"névtelen",
+        "pronunciation":"\/əˈnɑːnəməs\/",
+        "example":"The contribution was nameless."
+    },
+    {
+        "english":"nameless",
+        "hungarian":"név nélküli",
+        "pronunciation":"\/ˈneɪmləs\/",
+        "example":"The renowned musician performed well."
+    },
+    {
+        "english":"renowned",
+        "hungarian":"hírneves",
+        "pronunciation":"\/rɪˈnaʊnd\/",
+        "example":"The writer was critically acclaimed."
+    },
+    {
+        "english":"acclaimed",
+        "hungarian":"elismerést kapott",
+        "pronunciation":"\/əˈkleɪmd\/",
+        "example":"The actor was recognized internationally."
+    },
+    {
+        "english":"recognized",
+        "hungarian":"elismert",
+        "pronunciation":"\/ˈrɛkəɡˌnaɪzd\/",
+        "example":"He is esteemed by his peers."
+    },
+    {
+        "english":"esteemed",
+        "hungarian":"megbecsült",
+        "pronunciation":"\/ɪˈstiːmd\/",
+        "example":"The elder was revered by the village."
+    },
+    {
+        "english":"revered",
+        "hungarian":"tisztelt",
+        "pronunciation":"\/rɪˈvɪrd\/",
+        "example":"The player is admired by many."
+    },
+    {
+        "english":"admired",
+        "hungarian":"csodált",
+        "pronunciation":"\/ədˈmaɪrd\/",
+        "example":"The respected leader gave a speech."
+    },
+    {
+        "english":"respected",
+        "hungarian":"tisztelt",
+        "pronunciation":"\/rɪˈspɛktɪd\/",
+        "example":"A trusted advisor is invaluable."
+    },
+    {
+        "english":"trusted",
+        "hungarian":"megbízható",
+        "pronunciation":"\/ˈtrʌstɪd\/",
+        "example":"He felt honored to be part of it."
+    },
+    {
+        "english":"honored",
+        "hungarian":"megtisztelt",
+        "pronunciation":"\/ˈɑːnərd\/",
+        "example":"The effort was valued highly."
+    },
+    {
+        "english":"valued",
+        "hungarian":"értékelt",
+        "pronunciation":"\/ˈvæljud\/",
+        "example":"She felt appreciated for her work."
+    },
+    {
+        "english":"appreciated",
+        "hungarian":"megbecsült",
+        "pronunciation":"\/əˈpriːʃiˌeɪtɪd\/",
+        "example":"He was grateful for the help."
+    },
+    {
+        "english":"grateful",
+        "hungarian":"hálás",
+        "pronunciation":"\/ˈɡreɪtfəl\/",
+        "example":"She was thankful for the opportunity."
+    },
+    {
+        "english":"thankful",
+        "hungarian":"hálás",
+        "pronunciation":"\/ˈθæŋkfəl\/",
+        "example":"He was content with his job."
+    },
+    {
+        "english":"content",
+        "hungarian":"elégedett",
+        "pronunciation":"\/kənˈtɛnt\/",
+        "example":"She was satisfied with the results."
+    },
+    {
+        "english":"satisfied",
+        "hungarian":"elégedett",
+        "pronunciation":"\/ˈsætɪsˌfaɪd\/",
+        "example":"They were happy with their success."
+    },
+    {
+        "english":"happy",
+        "hungarian":"boldog",
+        "pronunciation":"\/ˈhæpi\/",
+        "example":"The child was joyful."
+    },
+    {
+        "english":"joyful",
+        "hungarian":"örömteli",
+        "pronunciation":"\/ˈʤɔɪfəl\/",
+        "example":"She was delighted with the surprise."
+    },
+    {
+        "english":"delighted",
+        "hungarian":"elragadtatott",
+        "pronunciation":"\/dɪˈlaɪtɪd\/",
+        "example":"He was pleased with the service."
+    },
+    {
+        "english":"pleased",
+        "hungarian":"elégedett",
+        "pronunciation":"\/pliːzd\/",
+        "example":"She remained cheerful throughout."
+    },
+    {
+        "english":"cheerful",
+        "hungarian":"vidám",
+        "pronunciation":"\/ˈʧɪərfəl\/",
+        "example":"The news made him elated."
+    },
+    {
+        "english":"elated",
+        "hungarian":"feldobott",
+        "pronunciation":"\/ɪˈleɪtɪd\/",
+        "example":"He felt excited about the trip."
+    },
+    {
+        "english":"excited",
+        "hungarian":"izgatott",
+        "pronunciation":"\/ɪkˈsaɪtɪd\/",
+        "example":"She was enthusiastic about the event."
+    },
+    {
+        "english":"enthusiastic",
+        "hungarian":"lelkes",
+        "pronunciation":"\/ɪnˌθuːziˈæstɪk\/",
+        "example":"He was eager to start."
+    },
+    {
+        "english":"eager",
+        "hungarian":"lelkes",
+        "pronunciation":"\/ˈiːɡər\/",
+        "example":"She was hopeful for a good outcome."
+    },
+    {
+        "english":"hopeful",
+        "hungarian":"reménykedő",
+        "pronunciation":"\/ˈhoʊpfəl\/",
+        "example":"The student was encouraged by the teacher."
+    },
+    {
+        "english":"encouraged",
+        "hungarian":"bátorított",
+        "pronunciation":"\/ɪnˈkɜːrɪʤd\/",
+        "example":"She was motivated by her achievements."
+    },
+    {
+        "english":"motivated",
+        "hungarian":"motivált",
+        "pronunciation":"\/ˈmoʊtəˌveɪtɪd\/",
+        "example":"He remained determined to finish."
+    },
+    {
+        "english":"determined",
+        "hungarian":"elhatározott",
+        "pronunciation":"\/dɪˈtɜrmənd\/",
+        "example":"The team was driven to succeed."
+    },
+    {
+        "english":"driven",
+        "hungarian":"hajtott",
+        "pronunciation":"\/ˈdrɪvən\/",
+        "example":"He is ambitious about his career."
+    },
+    {
+        "english":"ambitious",
+        "hungarian":"ambiciózus",
+        "pronunciation":"\/æmˈbɪʃəs\/",
+        "example":"The speech inspired many people."
+    },
+    {
+        "english":"inspired",
+        "hungarian":"inspirált",
+        "pronunciation":"\/ɪnˈspaɪrd\/",
+        "example":"The project was completed successfully."
+    }
+]
