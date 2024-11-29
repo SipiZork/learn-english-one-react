@@ -11,7 +11,7 @@ function App() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch('./english_hungarian_words.json');
+        const response = await fetch('./szavak.json');
 
         const data = await response.json();
         setWords(data);
