@@ -94,3 +94,23 @@
       padding: 15px 30px;
     }
 }
+
+#speaker {
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 10;
+    cursor: pointer;
+    transition: all .2s;
+
+    &.hide {
+        display: none;
+    }
+}
+
+#buttons {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+}

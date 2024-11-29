@@ -7,6 +7,7 @@ function App() {
 
   const [words, setWords] = useState([]);
   const [language, setLanguage] = useState('english');
+  const [read, setRead] = useState(true);
 
   useEffect(() => {
     const fetchData = async () => {
@@ -33,6 +34,10 @@ function App() {
     });
   };
 
+  const handleRead = () => {
+    setRead(prev => !prev);
+  };
+
   if (words.length === 0) {
     return <div>Töltés...</div>;
   } else {
@@ -40,10 +45,13 @@ function App() {
       <div className="App">
         <div id="header-container">
           <div id="title"><h1>Tanulj szavakat!</h1></div>
-          <button type="button" id="language-switch" onClick={handleLanguage} className='btn'>{language === 'english' ? 'Magyar' : 'Angol'}</button>
+          <div id="buttons">
+            <button type="button" id="language-switch" onClick={handleRead} className='btn'>{read ? 'Némítás' : 'Felolvasás'}</button>
+            <button type="button" id="language-switch" onClick={handleLanguage} className='btn'>{language === 'english' ? 'Magyar' : 'Angol'}</button>
+          </div>
         </div>
         <div id="loading"></div>
-        <Cards cards={words} language={language} />
+        <Cards cards={words} language={language} read={read} />
       </div>
     );
   };
