@@ -18,6 +18,9 @@ const Cards = ({ cards, language, read }) => {
       setActiveWord(cards[randomIndex]);
       if (language === 'english') {
         speakTheWord({ word: cards[randomIndex].english });
+        setSpeakable(true);
+      } else {
+        setSpeakable(false);
       }
     }, 200);
   };
