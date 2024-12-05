@@ -1,34 +1,42 @@
 import React, { useEffect, useState } from 'react';
 import { useSpeechSynthesis, } from 'react-speech-kit';
 
-const Cards = ({ cards, language, read }) => {
+const Cards = ({ cards, language, read, preWords, activePreWordIndex, setActivePreWordIndex, setPreWords, preWordIndex, setPreWordIndex }) => {
 
   const [activeWord, setActiveWord] = useState(cards[Math.floor(Math.random() * cards.length)]);
   const [isFlipped, setIsFLipped] = useState(false);
   const [selectedVoice, setSelectedVoice] = useState(null);
   const [speakable, setSpeakable] = useState(true);
-  const { speak, voices } = useSpeechSynthesis();
+  const [pre, setPre] = useState(false);
   const [voiceIndex, setVoiceIndex] = useState(null);
+  const { speak, voices, cancel } = useSpeechSynthesis();
   const voice = voices[voiceIndex] || null;
 
   const selectNextWord = () => {
     setIsFLipped(false);
     setTimeout(() => {
       const randomIndex = Math.floor(Math.random() * cards.length);
-      setActiveWord(cards[randomIndex]);
+
       if (language === 'english') {
+        setActiveWord(cards[randomIndex]);
         speakTheWord({ word: cards[randomIndex].english });
         setSpeakable(true);
       } else {
+        setActiveWord(cards[randomIndex]);
         setSpeakable(false);
       }
     }, 200);
   };
 
+  const setOptions = ({ active, preIndex }) => {
+    console.log(active);
+
+    setActivePreWordIndex(preIndex);
+    setActiveWord(active);
+  };
+
   const setFirstWord = () => {
-    const randomIndex = Math.floor(Math.random() * cards.length);
-    setActiveWord(cards[randomIndex]);
-    speakTheWord({ word: cards[randomIndex].english });
+    speakTheWord({ word: activeWord.english });
   };
 
   const handleFlip = () => {
@@ -43,6 +51,7 @@ const Cards = ({ cards, language, read }) => {
   };
 
   const speakTheWord = ({ word }) => {
+    cancel();
     if ((language === "english" || isFlipped) && read) {
       speak({ text: word, voice: selectedVoice });
     }
@@ -84,7 +93,6 @@ const Cards = ({ cards, language, read }) => {
           <div id="back-card">{language === 'english' ? activeWord.hungarian : activeWord.english}</div>
         </div>
       </div>
-      <button type="button" className="btn" >Olvasd</button>
       <button type="button" id="next" onClick={selectNextWord} className='btn'>Következő</button>
     </div>
   );

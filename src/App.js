@@ -51,7 +51,7 @@ function App() {
           </div>
         </div>
         <div id="loading"></div>
-        <Cards cards={words} language={language} read={read} />
+        <Cards cards={words} language={language} read={read} ></Cards>} />
       </div>
     );
   };
