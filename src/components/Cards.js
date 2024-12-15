@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { useSpeechSynthesis, } from 'react-speech-kit';
 
-const Cards = ({ cards, language, read, preWords, activePreWordIndex, setActivePreWordIndex, setPreWords, preWordIndex, setPreWordIndex }) => {
+const Cards = ({ type, cards, language, read, preWords, activePreWordIndex, setActivePreWordIndex, setPreWords, preWordIndex, setPreWordIndex }) => {
 
   const [activeWord, setActiveWord] = useState(cards[Math.floor(Math.random() * cards.length)]);
   const [isFlipped, setIsFLipped] = useState(false);
@@ -58,10 +58,6 @@ const Cards = ({ cards, language, read, preWords, activePreWordIndex, setActiveP
   };
 
   useEffect(() => {
-    setFirstWord();
-  }, []);
-
-  useEffect(() => {
     console.log(`változás: ${language}`);
     if (language === 'english' && !isFlipped) {
       setSpeakable(true);
@@ -71,6 +67,10 @@ const Cards = ({ cards, language, read, preWords, activePreWordIndex, setActiveP
       setSpeakable(false);
     }
   }, [language]);
+
+  useEffect(() => {
+    selectNextWord();
+  }, [cards]);
 
   useEffect(() => {
     if (voices.length > 0) {
