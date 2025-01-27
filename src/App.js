@@ -3,6 +3,7 @@ import './App.css';
 import Cards from './components/Cards';
 import { WordType } from './constans/wordtypes';
 import React, { useState, useEffect } from 'react';
+import Dictionary from './components/Dictionary';
 
 function App() {
 
@@ -11,6 +12,7 @@ function App() {
   const [read, setRead] = useState(true);
   const [wordType, setWordType] = useState(WordType.ALL);
   const [activeWords, setActiveWords] = useState([]);
+  const [currentPage, setCurrentPage] = useState('cards');
 
   useEffect(() => {
     const fetchData = async () => {
@@ -70,17 +72,36 @@ function App() {
         <div id="header-container">
           <div id="title"><h1>Tanulj szavakat!</h1></div>
           <div id="buttons">
-            <select name="wordtypes" id="wordtypes" onChange={(e) => handleType(e)}>
-              {Object.values(WordType).map(type => (
-                <option key={type} value={type}>{type}</option>
-              ))}
-            </select>
-            <button type="button" id="language-switch" onClick={handleRead} className='btn'>{read ? 'Némítás' : 'Felolvasás'}</button>
-            <button type="button" id="language-switch" onClick={handleLanguage} className='btn'>{language === 'english' ? 'Magyar' : 'Angol'}</button>
+            <button
+              type="button"
+              onClick={() => setCurrentPage(prev => prev === 'cards' ? 'dictionary' : 'cards')}
+              className='btn'
+            >
+              {currentPage === 'cards' ? 'Szótár' : 'Kártyák'}
+            </button>
+            {currentPage === 'cards' && (
+              <>
+                <select name="wordtypes" id="wordtypes" onChange={(e) => handleType(e)}>
+                  {Object.values(WordType).map(type => (
+                    <option key={type} value={type}>{type}</option>
+                  ))}
+                </select>
+                <button type="button" onClick={handleRead} className='btn'>
+                  {read ? 'Némítás' : 'Felolvasás'}
+                </button>
+                <button type="button" onClick={handleLanguage} className='btn'>
+                  {language === 'english' ? 'Magyar' : 'Angol'}
+                </button>
+              </>
+            )}
           </div>
         </div>
         <div id="loading"></div>
-        <Cards cards={activeWords} type={wordType} language={language} read={read} ></Cards>} />
+        {currentPage === 'cards' ? (
+          <Cards cards={activeWords} type={wordType} language={language} read={read} />
+        ) : (
+          <Dictionary words={words} />
+        )}
       </div>
     );
   };
