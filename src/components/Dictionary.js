@@ -6,6 +6,8 @@ const Dictionary = ({ words }) => {
   const { speak, voices, cancel } = useSpeechSynthesis();
   const [englishVoice, setEnglishVoice] = useState(null);
   const [hungarianVoice, setHungarianVoice] = useState(null);
+  const [searchTerm, setSearchTerm] = useState('');
+  const [filteredWords, setFilteredWords] = useState(words);
 
   useEffect(() => {
     if (voices.length > 0) {
@@ -19,6 +21,14 @@ const Dictionary = ({ words }) => {
     }
   }, [voices]);
 
+  useEffect(() => {
+    const filtered = words.filter(word =>
+      word.english.toLowerCase().includes(searchTerm.toLowerCase()) ||
+      word.hungarian.toLowerCase().includes(searchTerm.toLowerCase())
+    );
+    setFilteredWords(filtered);
+  }, [searchTerm, words]);
+
   const speakWord = (word, isEnglish) => {
     cancel();
     speak({
@@ -30,6 +40,15 @@ const Dictionary = ({ words }) => {
   return (
     <div className="dictionary-container">
       <h2>Szótár</h2>
+      <div className="search-container">
+        <input
+          type="text"
+          placeholder="Keresés angol vagy magyar szavak között..."
+          value={searchTerm}
+          onChange={(e) => setSearchTerm(e.target.value)}
+          className="search-input"
+        />
+      </div>
       <div className="dictionary-table">
         <div className="table-header">
           <div>Angol</div>
@@ -38,7 +57,7 @@ const Dictionary = ({ words }) => {
           <div>Példamondat</div>
         </div>
         <div className="table-body">
-          {words.map((word, index) => (
+          {filteredWords.map((word, index) => (
             <div key={index} className="table-row">
               <div className="word-cell">
                 {word.english}

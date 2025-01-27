@@ -64,4 +64,27 @@
 
 .speaker-icon:hover {
   opacity: 1;
+}
+
+.search-container {
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+.search-input {
+  width: 100%;
+  padding: 12px;
+  font-size: 16px;
+  border: 2px solid #ddd;
+  border-radius: 4px;
+  outline: none;
+  transition: border-color 0.2s;
+}
+
+.search-input:focus {
+  border-color: #007bff;
+}
+
+.search-input::placeholder {
+  color: #999;
 } 
